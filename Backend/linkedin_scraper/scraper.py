@@ -35,20 +35,5 @@ def profile_to_dict(profile):
             'Job Title': profile.job_title, 'Contacts': profile.contacts}
 
 
-# def experience_to_dict(experience):
-#     return {'institution_name': experience.institution_name, 'position_title': experience.position_title, 'from_date': experience.from_date, 'to_date': experience.to_date,
-#             'description': experience.description, 'duration': experience.duration, 'location': experience.location}
-
 df = pd.DataFrame([profile_to_dict(x) for x in linkedin_profiles], columns=columns)
 df.to_csv('all_extracted_profiles.csv', index=True, encoding='utf-8')
-
-# def profile_to_tuple(profile):
-#     return (profile.linkedin_url, profile.name, profile.about, profile.experiences, profile.interests,
-#             profile.accomplishments, profile.company, profile.job_title, profile.contacts)
-
-
-# with open("extracted_profiles.csv", "w") as stream:
-#     writer = csv.writer(stream)
-#     for profile in linkedin_profiles:
-#         row = profile_to_tuple(profile)
-#         writer.writerow(row)
