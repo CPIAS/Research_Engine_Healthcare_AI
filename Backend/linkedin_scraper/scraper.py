@@ -6,7 +6,7 @@ from linkedin_scraper import Person, actions
 from profile_formatter import profile_to_dict
 import json
 
-df = pd.read_csv('LinkedIn_Profiles_short_ver.csv')
+df = pd.read_csv('LinkedIn_Profiles_shorter_ver.csv')
 linkedIn_list = df.LinkedIn
 load_dotenv()
 driver = webdriver.Chrome()
@@ -22,6 +22,8 @@ json_profiles = {
 unique_id = 0
 for link in linkedIn_list:
     unique_id += 1
+    if pd.isna(link):
+        continue
     try:
         person = Person(link, driver=driver, scrape=True, close_on_complete=False)
         print(person.experiences[0])
@@ -32,7 +34,7 @@ for link in linkedIn_list:
     linkedin_profiles.append(person)
 print(len(linkedin_profiles))
 print(json_profiles)
-with open("bug_fixing.json", "w") as outfile:
+with open("all_extracted_profiles3.json", "w") as outfile:
     json.dump(json_profiles, outfile, indent=4, default=lambda o: '<not serializable>')
 
 
