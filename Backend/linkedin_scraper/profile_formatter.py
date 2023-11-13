@@ -1,13 +1,14 @@
 from linkedin_scraper import Person
 
 
-def profile_to_dict(person: Person):
+def profile_to_dict(person: Person, email):
     dict_profile = {
         'name': person.name,
         'about': person.about,
         'current_job_title': person.job_title,
+        'email': email,
         'current_company': person.company,
-        'experiences': []
+        'experiences': [],
     }
     for experience in person.experiences:
         dict_profile['experiences'].append({
