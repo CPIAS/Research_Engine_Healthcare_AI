@@ -199,7 +199,7 @@
                 {
                     "position_title": "Researcher",
                     "institution_name": "INRIA",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 3 mos",
                     "from_date": "Oct 2009",
                     "to_date": "Dec 2012",
@@ -208,7 +208,7 @@
                 {
                     "position_title": "Master Thesis",
                     "institution_name": "INRIA",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "Feb 2009",
                     "to_date": "Sep 2009",
@@ -334,7 +334,7 @@
                 {
                     "position_title": "Manager - Orthopaedic Research",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 6 mos",
                     "from_date": "Jun 2022",
                     "to_date": "Present",
@@ -343,7 +343,7 @@
                 {
                     "position_title": "Clinical Research ",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "12 yrs 1 mo",
                     "from_date": "Nov 2011",
                     "to_date": "Present",
@@ -424,7 +424,7 @@
                 {
                     "position_title": "Membre fondateur de la communauté de pratique UETMIS",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 11 mos",
                     "from_date": "Jan 2022",
                     "to_date": "Present",
@@ -433,7 +433,7 @@
                 {
                     "position_title": "Membre de la communauté de pratique en intelligence artificielle du CHUM",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 2 mos",
                     "from_date": "Oct 2020",
                     "to_date": "Present",
@@ -442,7 +442,7 @@
                 {
                     "position_title": "Gestion de projet ",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 11 mos",
                     "from_date": "Jan 2017",
                     "to_date": "Present",
@@ -451,7 +451,7 @@
                 {
                     "position_title": "Membre du comité réviseur du CHUM pour les projets du Fonds de soutien à l’innovation-CRCHUM ",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 yrs 3 mos",
                     "from_date": "Sep 2016",
                     "to_date": "Present",
@@ -460,7 +460,7 @@
                 {
                     "position_title": "Enseignement et co-encadrement des étudiants en maitrise",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 yrs 3 mos",
                     "from_date": "Sep 2012",
                     "to_date": "Present",
@@ -469,7 +469,7 @@
                 {
                     "position_title": "Évaluation des technologies et des modes d'intervention en santé (ETMIS)",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "13 yrs",
                     "from_date": "Dec 2010",
                     "to_date": "Present",
@@ -595,7 +595,7 @@
                 {
                     "position_title": "Assistant to the Director ¬ Digital Hospital Ambassador",
                     "institution_name": "Institut Cardiologie de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 9 mos",
                     "from_date": "Feb 2018",
                     "to_date": "Oct 2020",
@@ -604,7 +604,7 @@
                 {
                     "position_title": "Head of organization development, changement management and non-medical trainings ",
                     "institution_name": "Institut Cardiologie de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 6 mos",
                     "from_date": "Sep 2016",
                     "to_date": "Feb 2018",
@@ -766,7 +766,7 @@
                 {
                     "position_title": "Directrice générale au soutien la la gestion et à l'administration judiciaire",
                     "institution_name": "Ministère de la Justice du Québec (MJQ)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 6 mos",
                     "from_date": "Jan 2013",
                     "to_date": "Jun 2016",
@@ -775,7 +775,7 @@
                 {
                     "position_title": "Membre au Comité de vérification",
                     "institution_name": "Ministère de la Justice du Québec (MJQ)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 4 mos",
                     "from_date": "Sep 2008",
                     "to_date": "Dec 2012",
@@ -946,7 +946,7 @@
                 {
                     "position_title": "Management",
                     "institution_name": "Autobus Lion",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "9 yrs 11 mos",
                     "from_date": "Jan 2014",
                     "to_date": "Present",
@@ -955,7 +955,7 @@
                 {
                     "position_title": "Directeur des opérations",
                     "institution_name": "Autobus Lion",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "12 yrs 6 mos",
                     "from_date": "Jun 2011",
                     "to_date": "Present",
@@ -964,7 +964,7 @@
                 {
                     "position_title": "Design for manufacturing manager",
                     "institution_name": "Autobus Lion",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 2 mos",
                     "from_date": "May 2009",
                     "to_date": "Jun 2011",
@@ -991,7 +991,7 @@
                 {
                     "position_title": "Manufacturing engineering manager",
                     "institution_name": "Komatsu",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 6 mos",
                     "from_date": "Jan 2008",
                     "to_date": "Jun 2009",
@@ -1000,7 +1000,7 @@
                 {
                     "position_title": "Purchasing manager",
                     "institution_name": "Komatsu",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 11 mos",
                     "from_date": "Mar 2006",
                     "to_date": "Jan 2008",
@@ -1072,7 +1072,7 @@
                 {
                     "position_title": "Scientifique de données / Consortium en Santé numérique",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 7 mos",
                     "from_date": "May 2021",
                     "to_date": "Present",
@@ -1081,7 +1081,7 @@
                 {
                     "position_title": "Research associate in microbial evolution & genomic",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 5 mos",
                     "from_date": "Jan 2015",
                     "to_date": "May 2021",
@@ -1090,7 +1090,7 @@
                 {
                     "position_title": "Lecturer",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Feb 2019",
                     "to_date": "May 2019",
@@ -1099,7 +1099,7 @@
                 {
                     "position_title": "Research professional at IRBV (Institut de Recherche en Biologie végétale)",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 5 mos",
                     "from_date": "Sep 2011",
                     "to_date": "Jan 2015",
@@ -1198,7 +1198,7 @@
                 {
                     "position_title": "Technical Lead",
                     "institution_name": "Desjardins",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "10 mos",
                     "from_date": "Jun 2022",
                     "to_date": "Mar 2023",
@@ -1207,7 +1207,7 @@
                 {
                     "position_title": "Analyst programmer",
                     "institution_name": "Desjardins",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 5 mos",
                     "from_date": "Nov 2021",
                     "to_date": "Mar 2023",
@@ -1225,7 +1225,7 @@
                 {
                     "position_title": "Analyst Programmer ",
                     "institution_name": "Algo Design inc.",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "10 mos",
                     "from_date": "Sep 2019",
                     "to_date": "Jun 2020",
@@ -1234,7 +1234,7 @@
                 {
                     "position_title": "Web Developer",
                     "institution_name": "Algo Design inc.",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 mos",
                     "from_date": "Aug 2019",
                     "to_date": "Sep 2019",
@@ -1270,7 +1270,7 @@
                 {
                     "position_title": "Helpdesk Coordinator",
                     "institution_name": "Maroc Telecom",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 2 mos",
                     "from_date": "Feb 2008",
                     "to_date": "Mar 2013",
@@ -1279,7 +1279,7 @@
                 {
                     "position_title": "Technical Customer Service Agent",
                     "institution_name": "Maroc Telecom",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 7 mos",
                     "from_date": "Aug 2005",
                     "to_date": "Feb 2008",
@@ -1369,7 +1369,7 @@
                 {
                     "position_title": "Research Assistant",
                     "institution_name": "École Polytechnique de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 2 mos",
                     "from_date": "Nov 2014",
                     "to_date": "Dec 2019",
@@ -1378,7 +1378,7 @@
                 {
                     "position_title": "Teaching Assistant",
                     "institution_name": "École Polytechnique de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Sep 2017",
                     "to_date": "Dec 2017",
@@ -1558,7 +1558,7 @@
                 {
                     "position_title": "Manager of the Centre for the Integration and Analysis of Medical Data (CITADEL)",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Full-time",
                     "to_date": "",
@@ -1567,7 +1567,7 @@
                 {
                     "position_title": "Medical Data Science Program Manager",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 4 mos",
                     "from_date": "Nov 2020",
                     "to_date": "Feb 2023",
@@ -1675,7 +1675,7 @@
                 {
                     "position_title": "Advisor, Digital Training",
                     "institution_name": "CBC/Radio-Canada",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 5 mos",
                     "from_date": "Aug 2016",
                     "to_date": "Dec 2020",
@@ -1684,7 +1684,7 @@
                 {
                     "position_title": "Training Officer - Digital Services",
                     "institution_name": "CBC/Radio-Canada",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 mos",
                     "from_date": "Apr 2016",
                     "to_date": "Aug 2016",
@@ -1720,7 +1720,7 @@
                 {
                     "position_title": "Senior Advisor, Communication and Marketing",
                     "institution_name": "Government of Canada - Industry Department",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 mos",
                     "from_date": "Nov 2006",
                     "to_date": "Sep 2007",
@@ -1729,7 +1729,7 @@
                 {
                     "position_title": "Communication and Outreach Officer",
                     "institution_name": "Government of Canada - Industry Department",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 3 mos",
                     "from_date": "Sep 2005",
                     "to_date": "Nov 2006",
@@ -1909,7 +1909,7 @@
                 {
                     "position_title": "Assistante de recherche",
                     "institution_name": "Direction de la santé publique",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 4 mos",
                     "from_date": "Feb 2009",
                     "to_date": "May 2011",
@@ -1918,7 +1918,7 @@
                 {
                     "position_title": "Agent de planification, programmation et recherche",
                     "institution_name": "Direction de la santé publique",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 mos",
                     "from_date": "Jun 2010",
                     "to_date": "Nov 2010",
@@ -1927,7 +1927,7 @@
                 {
                     "position_title": "Stagiaire à la maîtrise",
                     "institution_name": "Direction de la santé publique",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Sep 2009",
                     "to_date": "Dec 2009",
@@ -2116,7 +2116,7 @@
                 {
                     "position_title": "Conseiller en soins infirmiers",
                     "institution_name": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 3 mos",
                     "from_date": "Sep 2019",
                     "to_date": "Present",
@@ -2125,7 +2125,7 @@
                 {
                     "position_title": "infirmier clinicien en préadmission de la chirurgie",
                     "institution_name": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 mos",
                     "from_date": "May 2019",
                     "to_date": "Sep 2019",
@@ -2134,7 +2134,7 @@
                 {
                     "position_title": "Critical Care Registered Nurse",
                     "institution_name": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 4 mos",
                     "from_date": "Feb 2013",
                     "to_date": "May 2019",
@@ -2143,7 +2143,7 @@
                 {
                     "position_title": "Hospital Activity Manager",
                     "institution_name": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 1 mo",
                     "from_date": "Dec 2016",
                     "to_date": "Dec 2017",
@@ -2161,7 +2161,7 @@
                 {
                     "position_title": "Offline Editor",
                     "institution_name": "Megafun Productions",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 2 mos",
                     "from_date": "2008 -",
                     "to_date": "2010",
@@ -2170,7 +2170,7 @@
                 {
                     "position_title": "Online Editor",
                     "institution_name": "Megafun Productions",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "2007 -",
                     "to_date": "2010",
@@ -2179,7 +2179,7 @@
                 {
                     "position_title": "Assistant Editor",
                     "institution_name": "Megafun Productions",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 5 mos",
                     "from_date": "2005 -",
                     "to_date": "2009",
@@ -2233,7 +2233,7 @@
                 {
                     "position_title": "District Business Manager",
                     "institution_name": "Novo Nordisk",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 6 mos",
                     "from_date": "Apr 2015",
                     "to_date": "Sep 2016",
@@ -2242,7 +2242,7 @@
                 {
                     "position_title": "Specialist Diabetes Consultant II",
                     "institution_name": "Novo Nordisk",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Mar 2012",
                     "to_date": "Mar 2015",
@@ -2287,7 +2287,7 @@
                 {
                     "position_title": "Professor",
                     "institution_name": "Polytechnique Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 yrs 7 mos",
                     "from_date": "May 2015",
                     "to_date": "Present",
@@ -2296,7 +2296,7 @@
                 {
                     "position_title": "Assistant Professor",
                     "institution_name": "Polytechnique Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 9 mos",
                     "from_date": "Sep 2012",
                     "to_date": "May 2015",
@@ -2332,7 +2332,7 @@
                 {
                     "position_title": "Scientific Consultant",
                     "institution_name": "Advanced Research Technologies (ART)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 2 mos",
                     "from_date": "Jan 2008",
                     "to_date": "Feb 2009",
@@ -2341,7 +2341,7 @@
                 {
                     "position_title": "Senior Research Scientist",
                     "institution_name": "Advanced Research Technologies (ART)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Jan 2005",
                     "to_date": "Jan 2008",
@@ -2521,7 +2521,7 @@
                 {
                     "position_title": "Chargé de cours / Lecturer",
                     "institution_name": "École de technologie supérieure (ÉTS)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 8 mos",
                     "from_date": "Apr 2019",
                     "to_date": "Present",
@@ -2530,7 +2530,7 @@
                 {
                     "position_title": "Teacher Assistant",
                     "institution_name": "École de technologie supérieure (ÉTS)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Aug 2017",
                     "to_date": "Aug 2020",
@@ -2539,7 +2539,7 @@
                 {
                     "position_title": "Researcher PHD Student",
                     "institution_name": "École de technologie supérieure (ÉTS)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 5 mos",
                     "from_date": "Aug 2015",
                     "to_date": "Dec 2019",
@@ -2728,7 +2728,7 @@
                 {
                     "position_title": "Analyst SQL",
                     "institution_name": "Manpower",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 8 mos",
                     "from_date": "Jan 2010",
                     "to_date": "Aug 2012",
@@ -2737,7 +2737,7 @@
                 {
                     "position_title": "Administrateur de Réseau",
                     "institution_name": "Manpower",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs",
                     "from_date": "2008 -",
                     "to_date": "",
@@ -2890,7 +2890,7 @@
                 {
                     "position_title": "Teaching and Research Assistant",
                     "institution_name": "Université de Lille Sciences et Technologies",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr",
                     "from_date": "Sep 2012",
                     "to_date": "Aug 2013",
@@ -2899,7 +2899,7 @@
                 {
                     "position_title": "Researcher engineer",
                     "institution_name": "Université de Lille Sciences et Technologies",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 8 mos",
                     "from_date": "Dec 2009",
                     "to_date": "Jul 2013",
@@ -3007,7 +3007,7 @@
                 {
                     "position_title": "Software Quality Assurance Engineer",
                     "institution_name": "CGI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 2 mos",
                     "from_date": "Oct 2021",
                     "to_date": "Present",
@@ -3016,7 +3016,7 @@
                 {
                     "position_title": "Software Quality Assurance Engineer",
                     "institution_name": "CGI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 mos",
                     "from_date": "Apr 2021",
                     "to_date": "Oct 2021",
@@ -3025,7 +3025,7 @@
                 {
                     "position_title": "IT Operations Coordinator",
                     "institution_name": "CGI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Apr 2018",
                     "to_date": "Apr 2021",
@@ -3034,7 +3034,7 @@
                 {
                     "position_title": "Software Quality Assurance Engineer",
                     "institution_name": "CGI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr",
                     "from_date": "Apr 2017",
                     "to_date": "Mar 2018",
@@ -3241,7 +3241,7 @@
                 {
                     "position_title": "Conseillère en gestion des données",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 2 mos",
                     "from_date": "Oct 2022",
                     "to_date": "Present",
@@ -3250,7 +3250,7 @@
                 {
                     "position_title": "Coordonnatrice de l’initiative Accès aux données - Table nationale des directeurs de la recherche",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 9 mos",
                     "from_date": "Feb 2021",
                     "to_date": "Oct 2022",
@@ -3259,7 +3259,7 @@
                 {
                     "position_title": "Associée de recherche",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 5 mos",
                     "from_date": "Jun 2020",
                     "to_date": "Oct 2022",
@@ -3268,7 +3268,7 @@
                 {
                     "position_title": "Chercheuse postdoctorale",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 9 mos",
                     "from_date": "Oct 2018",
                     "to_date": "Jun 2020",
@@ -3502,7 +3502,7 @@
                 {
                     "position_title": "Chargé de Cours / Lecturer",
                     "institution_name": "Cégep de Sainte-Foy",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 yrs 4 mos",
                     "from_date": "Sep 2011",
                     "to_date": "Dec 2018",
@@ -3511,7 +3511,7 @@
                 {
                     "position_title": "Professeur",
                     "institution_name": "Cégep de Sainte-Foy",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 1 mo",
                     "from_date": "Sep 2012",
                     "to_date": "Sep 2018",
@@ -3529,7 +3529,7 @@
                 {
                     "position_title": "Post-Doctoral Student",
                     "institution_name": "Université Laval",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs",
                     "from_date": "Oct 2010",
                     "to_date": "Sep 2012",
@@ -3538,7 +3538,7 @@
                 {
                     "position_title": "Chargé de TD / Teaching Assistant",
                     "institution_name": "Université Laval",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 9 mos",
                     "from_date": "Sep 2010",
                     "to_date": "May 2012",
@@ -3547,7 +3547,7 @@
                 {
                     "position_title": "Research Assistant",
                     "institution_name": "Université Laval",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs",
                     "from_date": "Oct 2005",
                     "to_date": "Sep 2010",
@@ -3556,7 +3556,7 @@
                 {
                     "position_title": "Research Assistant",
                     "institution_name": "Université Laval",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 mos",
                     "from_date": "Jun 2010",
                     "to_date": "Aug 2010",
@@ -3772,7 +3772,7 @@
                 {
                     "position_title": "Postdoctoral Research Fellow",
                     "institution_name": "École de technologie supérieure",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "9 mos",
                     "from_date": "May 2016",
                     "to_date": "Jan 2017",
@@ -3781,7 +3781,7 @@
                 {
                     "position_title": "Research Scientist",
                     "institution_name": "École de technologie supérieure",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 9 mos",
                     "from_date": "Jan 2012",
                     "to_date": "Sep 2016",
@@ -3817,7 +3817,7 @@
                 {
                     "position_title": "Medical Liaison Specialist",
                     "institution_name": "Dialogue",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Mar 2022",
                     "to_date": "Jun 2022",
@@ -3826,7 +3826,7 @@
                 {
                     "position_title": "Care Coordinator",
                     "institution_name": "Dialogue",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 mos",
                     "from_date": "Oct 2021",
                     "to_date": "Mar 2022",
@@ -3979,7 +3979,7 @@
                 {
                     "position_title": "Technical Leader",
                     "institution_name": "Cisco Systems",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "12 yrs 11 mos",
                     "from_date": "Sep 1999",
                     "to_date": "Jul 2012",
@@ -3988,7 +3988,7 @@
                 {
                     "position_title": "Hardware Designer",
                     "institution_name": "Cisco Systems",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs",
                     "from_date": "Aug 2000",
                     "to_date": "Jul 2004",
@@ -3997,7 +3997,7 @@
                 {
                     "position_title": "Hardware Designer",
                     "institution_name": "Cisco Systems",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 mos",
                     "from_date": "Feb 1999",
                     "to_date": "Aug 1999",
@@ -4051,7 +4051,7 @@
                 {
                     "position_title": "Gestionnaire de la recherche et de l'innovation",
                     "institution_name": "Vestechpro",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 3 mos",
                     "from_date": "Feb 2022",
                     "to_date": "Apr 2023",
@@ -4060,7 +4060,7 @@
                 {
                     "position_title": "Gestionnaire de la recherche et de l'innovation - Contractuelle",
                     "institution_name": "Vestechpro",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 2 mos",
                     "from_date": "Jan 2021",
                     "to_date": "Feb 2022",
@@ -4069,7 +4069,7 @@
                 {
                     "position_title": "Chargée de projets - Contractuelle ",
                     "institution_name": "Vestechpro",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Nov 2018",
                     "to_date": "Jan 2021",
@@ -4159,7 +4159,7 @@
                 {
                     "position_title": "Nurse Intern",
                     "institution_name": "Institut Cardiologie de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 1 mo",
                     "from_date": "Jun 2021",
                     "to_date": "Jun 2022",
@@ -4168,7 +4168,7 @@
                 {
                     "position_title": "Hospital Coordinator",
                     "institution_name": "Institut Cardiologie de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Internship",
                     "to_date": "",
@@ -4177,7 +4177,7 @@
                 {
                     "position_title": "Covid-19 Rapid Test Center Supervisor ",
                     "institution_name": "Institut Cardiologie de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 6 mos",
                     "from_date": "Dec 2020",
                     "to_date": "May 2022",
@@ -4348,7 +4348,7 @@
                 {
                     "position_title": "Private Researcher, Defence Scientist and Scientific Entrepreneur",
                     "institution_name": "Medical Intelligence CBRNE Inc. & its Charitable Organization Operation Compagnons d'armes",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 mos",
                     "from_date": "Jan 2023",
                     "to_date": "Present",
@@ -4357,7 +4357,7 @@
                 {
                     "position_title": "Private Researcher, Defence Scientist and Scientific Entrepreneur",
                     "institution_name": "Medical Intelligence CBRNE Inc. & its Charitable Organization Operation Compagnons d'armes",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 mos",
                     "from_date": "Jan 2023",
                     "to_date": "Present",
@@ -4384,7 +4384,7 @@
                 {
                     "position_title": "Officer",
                     "institution_name": "Department of National Defence / Ministère de la Défense nationale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "16 yrs 8 mos",
                     "from_date": "Jun 1998",
                     "to_date": "Jan 2015",
@@ -4393,7 +4393,7 @@
                 {
                     "position_title": "Armoured Crew Member",
                     "institution_name": "Department of National Defence / Ministère de la Défense nationale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Apr 1996",
                     "to_date": "Jun 1998",
@@ -4465,7 +4465,7 @@
                 {
                     "position_title": "Doctorante/PhD student ",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 10 mos",
                     "from_date": "Sep 2016",
                     "to_date": "Jun 2020",
@@ -4474,7 +4474,7 @@
                 {
                     "position_title": "University Lecturer",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 mos",
                     "from_date": "Sep 2019",
                     "to_date": "Nov 2019",
@@ -4681,7 +4681,7 @@
                 {
                     "position_title": "Enseignante en soins infirmiers",
                     "institution_name": "Cégep Garneau (Page officielle - Entreprise)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "13 yrs 11 mos",
                     "from_date": "2007 -",
                     "to_date": "2020",
@@ -4690,7 +4690,7 @@
                 {
                     "position_title": "Chargée de projet",
                     "institution_name": "Cégep Garneau (Page officielle - Entreprise)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 10 mos",
                     "from_date": "Aug 2018",
                     "to_date": "May 2020",
@@ -4753,7 +4753,7 @@
                 {
                     "position_title": "Auxiliaire d'enseignement",
                     "institution_name": "Université de Sherbrooke",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 11 mos",
                     "from_date": "Feb 2012",
                     "to_date": "Dec 2018",
@@ -4762,7 +4762,7 @@
                 {
                     "position_title": "Chargé de cours",
                     "institution_name": "Université de Sherbrooke",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Jan 2018",
                     "to_date": "Apr 2018",
@@ -4771,7 +4771,7 @@
                 {
                     "position_title": "Chargé de cours",
                     "institution_name": "Université de Sherbrooke",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Sep 2015",
                     "to_date": "Dec 2015",
@@ -4888,7 +4888,7 @@
                 {
                     "position_title": "Senior Product Manager",
                     "institution_name": "Covidien",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs",
                     "from_date": "2011 -",
                     "to_date": "",
@@ -4897,7 +4897,7 @@
                 {
                     "position_title": "Product Manager",
                     "institution_name": "Covidien",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs",
                     "from_date": "2007 -",
                     "to_date": "",
@@ -4951,7 +4951,7 @@
                 {
                     "position_title": "Project Manager",
                     "institution_name": "Institut universitaire de gériatrie de Montréal (IUGM) et son Centre de recherche",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Jan 2016",
                     "to_date": "Jan 2019",
@@ -4960,7 +4960,7 @@
                 {
                     "position_title": "Research Assistant",
                     "institution_name": "Institut universitaire de gériatrie de Montréal (IUGM) et son Centre de recherche",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 9 mos",
                     "from_date": "Sep 2012",
                     "to_date": "May 2016",
@@ -5023,7 +5023,7 @@
                 {
                     "position_title": "Co Director MSc in Health Management and Data Intelligence",
                     "institution_name": "École des Mines de Saint-Étienne",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 10 mos",
                     "from_date": "Sep 2019",
                     "to_date": "Jun 2022",
@@ -5032,7 +5032,7 @@
                 {
                     "position_title": "Associate Professor in Healthcare Data Science",
                     "institution_name": "École des Mines de Saint-Étienne",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 11 mos",
                     "from_date": "Aug 2018",
                     "to_date": "Jun 2022",
@@ -5203,7 +5203,7 @@
                 {
                     "position_title": "Responsable Conformité Commerciale",
                     "institution_name": "Camfil France",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 6 mos",
                     "from_date": "Apr 2019",
                     "to_date": "Sep 2022",
@@ -5212,7 +5212,7 @@
                 {
                     "position_title": "Diversity & Inclusion Leader",
                     "institution_name": "Camfil France",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 11 mos",
                     "from_date": "Nov 2018",
                     "to_date": "Sep 2022",
@@ -5221,7 +5221,7 @@
                 {
                     "position_title": "GEEIS-Diversity European Consultant",
                     "institution_name": "Camfil France",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 1 mo",
                     "from_date": "Oct 2017",
                     "to_date": "Oct 2018",
@@ -5230,7 +5230,7 @@
                 {
                     "position_title": "CSR and Diversity Officer",
                     "institution_name": "Camfil France",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr",
                     "from_date": "Oct 2016",
                     "to_date": "Sep 2017",
@@ -5239,7 +5239,7 @@
                 {
                     "position_title": "Diversity and Professional Equality (Gender) Referent",
                     "institution_name": "Camfil France",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 mos",
                     "from_date": "Apr 2016",
                     "to_date": "Sep 2016",
@@ -5248,7 +5248,7 @@
                 {
                     "position_title": "Enseignant Vacataire GRH & Diversités",
                     "institution_name": "Université du Littoral Côte d'Opale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Part-time",
                     "to_date": "",
@@ -5257,7 +5257,7 @@
                 {
                     "position_title": "Chargé de cours auprès de l'IUT Saint-Omer",
                     "institution_name": "Université du Littoral Côte d'Opale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Contract Part-time",
                     "to_date": "",
@@ -5266,7 +5266,7 @@
                 {
                     "position_title": "Chargé de conférences RH & RSE-Diversité",
                     "institution_name": "Université du Littoral Côte d'Opale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Contract Part-time",
                     "to_date": "",
@@ -5275,7 +5275,7 @@
                 {
                     "position_title": "Chargé de cours auprès de l'ISCID-CO International Business School",
                     "institution_name": "Université du Littoral Côte d'Opale",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Contract Part-time",
                     "to_date": "",
@@ -5410,7 +5410,7 @@
                 {
                     "position_title": "Department Head, Structuring Projects, Innovation and Learning Experiences",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 1 mo",
                     "from_date": "Oct 2022",
                     "to_date": "Oct 2023",
@@ -5419,7 +5419,7 @@
                 {
                     "position_title": "Department Head, Innovation and Project Management",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 2 mos",
                     "from_date": "Dec 2021",
                     "to_date": "Jan 2023",
@@ -5428,7 +5428,7 @@
                 {
                     "position_title": "Innovation Advisor & Ambassador for The School of Artificial Intelligence in Healthcare (SAIH)",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 8 mos",
                     "from_date": "May 2019",
                     "to_date": "Dec 2021",
@@ -5437,7 +5437,7 @@
                 {
                     "position_title": "Collaborative Workshop Designer",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 mos",
                     "from_date": "Dec 2018",
                     "to_date": "Apr 2019",
@@ -5554,7 +5554,7 @@
                 {
                     "position_title": "Gestionnaire de la plateforme de l'innovation et d’unites d’innovation en maladies chroniques aiguës",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 2 mos",
                     "from_date": "Sep 2014",
                     "to_date": "Oct 2018",
@@ -5563,7 +5563,7 @@
                 {
                     "position_title": "Cheffe professionnelle en orthophonie et audiologie",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs",
                     "from_date": "Sep 2012",
                     "to_date": "Aug 2014",
@@ -5572,7 +5572,7 @@
                 {
                     "position_title": "Orthophoniste- Speech-Language Pathologist",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 yrs 11 mos",
                     "from_date": "Sep 2007",
                     "to_date": "Jul 2014",
@@ -5608,7 +5608,7 @@
                 {
                     "position_title": "CEO",
                     "institution_name": "ufo digital media",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 11 mos",
                     "from_date": "Jan 2018",
                     "to_date": "Present",
@@ -5617,7 +5617,7 @@
                 {
                     "position_title": "ceo",
                     "institution_name": "ufo digital media",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 11 mos",
                     "from_date": "Jan 2018",
                     "to_date": "Present",
@@ -5644,7 +5644,7 @@
                 {
                     "position_title": "Neonatal Hemodynamics Research Fellowship Program",
                     "institution_name": "McGill University",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 6 mos",
                     "from_date": "Jun 2020",
                     "to_date": "Present",
@@ -5653,7 +5653,7 @@
                 {
                     "position_title": "Associate Member in the Department of Epidemiology, Biostatistics and Occupational Health",
                     "institution_name": "McGill University",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 9 mos",
                     "from_date": "Mar 2020",
                     "to_date": "Present",
@@ -5698,7 +5698,7 @@
                 {
                     "position_title": "Neonatology Fellow",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs",
                     "from_date": "Jul 2013",
                     "to_date": "Jun 2015",
@@ -5707,7 +5707,7 @@
                 {
                     "position_title": "Pediatrics, FRCPC, FAAP",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 yrs 6 mos",
                     "from_date": "2010 -",
                     "to_date": "2013",
@@ -5716,7 +5716,7 @@
                 {
                     "position_title": "Resident Member of the Board of Directors (Conseil d'administration)",
                     "institution_name": "CHU Sainte-Justine",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 4 mos",
                     "from_date": "Sep 2010",
                     "to_date": "Dec 2011",
@@ -5743,7 +5743,7 @@
                 {
                     "position_title": "Principal Advisor Research - Data Science",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Permanent Full-time",
                     "to_date": "",
@@ -5752,7 +5752,7 @@
                 {
                     "position_title": "Coordonatrice par interim",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "May 2022",
                     "to_date": "Dec 2022",
@@ -5941,7 +5941,7 @@
                 {
                     "position_title": "Infirmière anesthésiste ",
                     "institution_name": "CHU Mohammed VI Oujda",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 11 mos",
                     "from_date": "Sep 2015",
                     "to_date": "Jul 2020",
@@ -5950,7 +5950,7 @@
                 {
                     "position_title": "Stagiaire en systèmes d'information hospitaliers",
                     "institution_name": "CHU Mohammed VI Oujda",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Internship",
                     "to_date": "",
@@ -5959,7 +5959,7 @@
                 {
                     "position_title": "Stagiaire au service informatique",
                     "institution_name": "CHU Mohammed VI Oujda",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Internship",
                     "to_date": "",
@@ -6013,7 +6013,7 @@
                 {
                     "position_title": "Secretaire d'école",
                     "institution_name": "Centre de services scolaire des Grandes-Seigneuries",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 10 mos",
                     "from_date": "Feb 2021",
                     "to_date": "Present",
@@ -6022,7 +6022,7 @@
                 {
                     "position_title": "Secrétaire",
                     "institution_name": "Centre de services scolaire des Grandes-Seigneuries",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 mos",
                     "from_date": "Sep 2020",
                     "to_date": "Feb 2021",
@@ -6031,7 +6031,7 @@
                 {
                     "position_title": "Agente administrative service d’approvisionnement",
                     "institution_name": "Vigi Santé ltée",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 4 mos",
                     "from_date": "Jul 2014",
                     "to_date": "Oct 2019",
@@ -6040,7 +6040,7 @@
                 {
                     "position_title": "Agente Administrative comptes payables",
                     "institution_name": "Vigi Santé ltée",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs",
                     "from_date": "Aug 2010",
                     "to_date": "Jul 2014",
@@ -6049,7 +6049,7 @@
                 {
                     "position_title": "agente adnministrative-réceptionniste",
                     "institution_name": "Vigi Santé ltée",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "9 mos",
                     "from_date": "Dec 2009",
                     "to_date": "Aug 2010",
@@ -6328,7 +6328,7 @@
                 {
                     "position_title": "Professeure de sociologie",
                     "institution_name": "Cégep de Saint-Laurent",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 yrs 2 mos",
                     "from_date": "Oct 2012",
                     "to_date": "Present",
@@ -6337,7 +6337,7 @@
                 {
                     "position_title": "Conseillère pédagogique ",
                     "institution_name": "Cégep de Saint-Laurent",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "Nov 2019",
                     "to_date": "Jun 2020",
@@ -6346,7 +6346,7 @@
                 {
                     "position_title": "Conseillère pédagogique",
                     "institution_name": "Cégep de Saint-Laurent",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 mos",
                     "from_date": "Aug 2018",
                     "to_date": "Dec 2018",
@@ -6355,7 +6355,7 @@
                 {
                     "position_title": "Conseillère pédagogique",
                     "institution_name": "Cégep de Saint-Laurent",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Part-time",
                     "to_date": "",
@@ -6634,7 +6634,7 @@
                 {
                     "position_title": "Research Assistant",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "3 mos",
                     "from_date": "Sep 2023",
                     "to_date": "Present",
@@ -6643,7 +6643,7 @@
                 {
                     "position_title": "Research Student",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 11 mos",
                     "from_date": "Jan 2022",
                     "to_date": "Present",
@@ -6688,7 +6688,7 @@
                 {
                     "position_title": "AI Director",
                     "institution_name": "Solution BI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 mos",
                     "from_date": "Oct 2023",
                     "to_date": "Present",
@@ -6697,7 +6697,7 @@
                 {
                     "position_title": "AI Consultant",
                     "institution_name": "Solution BI",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "6 mos",
                     "from_date": "Jun 2023",
                     "to_date": "Present",
@@ -6706,7 +6706,7 @@
                 {
                     "position_title": "Head of Digital Marketing & Data Analytics ",
                     "institution_name": "Crédit Agricole Sud Méditerranée",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "Dec 2022",
                     "to_date": "Jul 2023",
@@ -6715,7 +6715,7 @@
                 {
                     "position_title": "Data scientist",
                     "institution_name": "Crédit Agricole Sud Méditerranée",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 4 mos",
                     "from_date": "Sep 2020",
                     "to_date": "Dec 2022",
@@ -6859,7 +6859,7 @@
                 {
                     "position_title": "Consultant stratégique",
                     "institution_name": "1 yr 11 mos",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Freelance",
                     "to_date": "",
@@ -6868,7 +6868,7 @@
                 {
                     "position_title": "Investisseur privé",
                     "institution_name": "1 yr 11 mos",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Self-employed",
                     "to_date": "",
@@ -6886,7 +6886,7 @@
                 {
                     "position_title": "Consultant en affaires",
                     "institution_name": "Self-employed · 2 yrs 3 mos",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6895,7 +6895,7 @@
                 {
                     "position_title": "Conférencier invité",
                     "institution_name": "Self-employed · 2 yrs 3 mos",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6913,7 +6913,7 @@
                 {
                     "position_title": "Conférencier principal",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6922,7 +6922,7 @@
                 {
                     "position_title": "Mentor d’entreprise",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6931,7 +6931,7 @@
                 {
                     "position_title": "Organisateur d’événements",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6940,7 +6940,7 @@
                 {
                     "position_title": "Conférencier invité",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6949,7 +6949,7 @@
                 {
                     "position_title": "Spécialiste entreprise",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6958,7 +6958,7 @@
                 {
                     "position_title": "Pair mentor",
                     "institution_name": "Latitudes – Exploring Tech for Good",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "11 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Jul 2022",
@@ -6994,7 +6994,7 @@
                 {
                     "position_title": "Conférencier invité",
                     "institution_name": "Freelance · 1 mo",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 mo",
                     "from_date": "Jun 2023",
                     "to_date": "",
@@ -7003,7 +7003,7 @@
                 {
                     "position_title": "Academic Mentor",
                     "institution_name": "Freelance · 1 mo",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 mo",
                     "from_date": "Jun 2023",
                     "to_date": "",
@@ -7012,7 +7012,7 @@
                 {
                     "position_title": "Academic Jury",
                     "institution_name": "Freelance · 1 mo",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 mo",
                     "from_date": "Jun 2023",
                     "to_date": "",
@@ -7093,7 +7093,7 @@
                 {
                     "position_title": "C++ Developer",
                     "institution_name": "Polytechnique Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "May 2022",
                     "to_date": "Aug 2022",
@@ -7102,7 +7102,7 @@
                 {
                     "position_title": "Entrepreneurship Intern",
                     "institution_name": "Polytechnique Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "May 2022",
                     "to_date": "Aug 2022",
@@ -7111,7 +7111,7 @@
                 {
                     "position_title": "Undergraduate Research Assistant",
                     "institution_name": "Polytechnique Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Apr 2022",
@@ -7210,7 +7210,7 @@
                 {
                     "position_title": "Datalab Actuarial Analyst",
                     "institution_name": "Intact",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 mos",
                     "from_date": "May 2023",
                     "to_date": "Present",
@@ -7219,7 +7219,7 @@
                 {
                     "position_title": "Campus Influencer ",
                     "institution_name": "Intact",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "8 mos",
                     "from_date": "Sep 2022",
                     "to_date": "Apr 2023",
@@ -7228,7 +7228,7 @@
                 {
                     "position_title": "Actuarial Analyst Intern",
                     "institution_name": "Intact",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": null,
                     "from_date": "Internship",
                     "to_date": "",
@@ -7300,7 +7300,7 @@
                 {
                     "position_title": "Programmer",
                     "institution_name": "Virage Simulation",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 7 mos",
                     "from_date": "Jun 2019",
                     "to_date": "Dec 2020",
@@ -7309,7 +7309,7 @@
                 {
                     "position_title": "Junior Programmer",
                     "institution_name": "Virage Simulation",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "1 yr 1 mo",
                     "from_date": "May 2018",
                     "to_date": "May 2019",
@@ -7363,7 +7363,7 @@
                 {
                     "position_title": "Chargée de projet régionale - Agente de planification, de programmation et de recherche ",
                     "institution_name": "CISSS de la Montérégie-Centre",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs",
                     "from_date": "Sep 2019",
                     "to_date": "Aug 2023",
@@ -7372,7 +7372,7 @@
                 {
                     "position_title": "Agente de planification, de programmation et de recherche",
                     "institution_name": "CISSS de la Montérégie-Centre",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 mos",
                     "from_date": "Mar 2019",
                     "to_date": "Sep 2019",
