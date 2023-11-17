@@ -1,9 +1,10 @@
 {
     "profiles": {
         "1": {
-            "name": "Mariem Abid",
+            "name": "Mariem A.",
             "about": null,
             "current_job_title": "Analyste technico-commercial",
+            "email": "abid.mariem@gmail.com",
             "current_company": "Axelys",
             "experiences": [
                 {
@@ -126,9 +127,10 @@
             ]
         },
         "2": {
-            "name": "Amal Khabou",
+            "name": "Amal KHABOU, PhD",
             "about": null,
             "current_job_title": "High Performance Computing Researcher",
+            "email": "a.khabou@gmail.com",
             "current_company": "Institut de recherche d'Hydro-Québec (Research institute of Hydro-Québec) · Permanent Full-time",
             "experiences": [
                 {
@@ -254,6 +256,7 @@
             "name": "Elie Bou Assi",
             "about": "Elie Bou Assi is an assistant professor in the Department of Neuroscience at the Université de Montréal and a principal scientist at the Centre Hospitalier de l’Université de Montréal (CHUM). \nHis research interests cover the application of artificial intelligence techniques and the internet of things to improve the management of neurological and psychiatric conditions.\nElie Bou Assi is an assistant professor in the Department of Neuroscience at the Université de Montréal and a principal scientist at the Centre Hospitalier de l’Université de Montréal (CHUM). His research interests cover the application of artificial intelligence techniques and the internet of things to improve the management of neurological and psychiatric conditions.",
             "current_job_title": "IVADO Assistant Professor",
+            "email": "elie.bou.assi.chum@ssss.gouv.qc.ca",
             "current_company": "Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -322,9 +325,10 @@
             ]
         },
         "4": {
-            "name": "Fida Al-Shakfa",
+            "name": "Fidaa Al-Shakfa, MSc, MBA",
             "about": null,
             "current_job_title": "Manager - Orthopaedic Research",
+            "email": "f.alshakfa.crchum@gmail.com",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -378,6 +382,7 @@
             "name": "Laura Gagliano",
             "about": null,
             "current_job_title": "PHD Candidate",
+            "email": "laura.gagliano11@gmail.com",
             "current_company": "Polytechnique Montréal",
             "experiences": [
                 {
@@ -413,6 +418,7 @@
             "name": "Imane Hammana",
             "about": "Specialties: management, clinical studys coordination, clinical data analysis, scientific writing and presentation.\nSpecialties: management, clinical studys coordination, clinical data analysis, scientific writing and presentation.",
             "current_job_title": "Membre fondateur de la communauté de pratique UETMIS",
+            "email": "imane.hammana.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -490,9 +496,10 @@
             ]
         },
         "7": {
-            "name": "Philippe Dixon",
+            "name": "Philippe C. Dixon",
             "about": null,
             "current_job_title": "Assistant Professor",
+            "email": "philippe.dixon@umontreal.ca",
             "current_company": "Université de Montréal · Full-time",
             "experiences": [
                 {
@@ -537,6 +544,7 @@
             "name": "Anne Nguyen, LSSBB",
             "about": "Dynamic leader leveraging extensive experience managing complex projects with solid understanding of the impact of data and analytics on business strategy and operations. Expertise in interpreting findings and using them to uncover valuable business insights. Strong belief that all good technology starts with a human purpose and learning can and should be transformed in positive, impactful, influential and powerful actions.\nDynamic leader leveraging extensive experience managing complex projects with solid understanding of the impact of data and analytics on business strategy and operations. Expertise in interpreting findings and using them to uncover valuable business insights. Strong belief that all good technology starts with a human purpose and learning can and should be transformed in positive, impactful, influential and powerful actions.",
             "current_job_title": "Chief Health Data Officer ",
+            "email": "anne.nguyen.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -608,6 +616,7 @@
             "name": "Mohamed Amine Elforaici",
             "about": null,
             "current_job_title": "Student Ambassador",
+            "email": "amine.elforaici@gmail.com",
             "current_company": "Polytechnique Montréal",
             "experiences": [
                 {
@@ -643,6 +652,7 @@
             "name": "Andrée Blanchet, ASC",
             "about": "Experienced Administrator with a demonstrated history of working in the government administration industry. Strong information technology professional skilled in Business Process, Enterprise Risk Management, Analytical Skills, Coaching, and Government.\nExperienced Administrator with a demonstrated history of working in the government administration industry. Strong information technology professional skilled in Business Process, Enterprise Risk Management, Analytical Skills, Coaching, and Government.",
             "current_job_title": "Instructrice de Yoga",
+            "email": "andree.blanchet.chum@ssss.gouv.qc.ca",
             "current_company": "Sports Montréal inc. · Contract Part-time",
             "experiences": [
                 {
@@ -840,6 +850,7 @@
             "name": "Tastet Olivier",
             "about": null,
             "current_job_title": "Artificial Intelligence Specialist",
+            "email": "olivier.tastet@umontreal.ca",
             "current_company": "Institut Cardiologie de Montréal · Contract Full-time",
             "experiences": [
                 {
@@ -875,6 +886,7 @@
             "name": "Daiana-Maria Tamas",
             "about": "En tant que conseiller en intelligence d'affaires, j'utilise les données et l'apprentissage automatique pour créer des informations exploitables et des solutions d'analyse prédictive. \n\nEn avril 2023, j'ai achevé ma spécialisation technique en intelligence artificielle. J'ai eu l'opportunité de faire un stage au MESS, où j'ai travaillé sur le développement d'une application de classification automatique des plaintes en utilisant l'intelligence artificielle, plus précisément le traitement automatique du langage naturel (TALN).\n\nEn parallèle, j'ai également réalisé un projet de science computationnelle avec IVADO, qui portait sur la prédiction de l'amélioration de l'acuité visuelle après une chirurgie du trou maculaire.\n\nTechnologies: AI, Big Data Analytics, Data visualization, Dashboarding\n\nData modeling (relationnal, OLAP, star schema), Datawarehouse, ETL architecture,OWB, Oracle.\nBusiness Object, Power BI, SQL Server 2012, Transac SQL (T-SQL).\n\nMéthodologie Agile – Scrum",
             "current_job_title": "Analyste de l'intelligence d'affaires",
+            "email": "daianatoader@yahoo.com",
             "current_company": " Ministère du Travail, de l'Emploi et de la Solidarité sociale",
             "experiences": [
                 {
@@ -928,6 +940,7 @@
             "name": "Yves Desjardins, MBA",
             "about": "Spécialiste en électrification des transports lourds. Gestionnaire technique ayant plus de vingt ans d’expérience professionnelle en opérations et ingénierie. J’ai développé une expertise en gestion, en génie manufacturier, en ingénierie et dans les achats et logistique. J’ai pilotés les équipes pour la conception de trois véhicules lourds à partir d’une page blanche ainsi que l’aménagement complet de deux usines. Diplômé d'un MBA exécutif. Langues parlées et écrites: français et anglais.\n\nSpécialisations :\n• Direction d'usine et de départements\n• Amélioration continue, Six Sigma\n• Gestion de projets spéciaux\n• Développement de véhicules diesel et électrique\n• Aménagement d'usine et outillage\n• Électrification des transports\n• CSA : membre du comité CSA pour les véhicules scolaires\n+ responsable du comité CSA sur les véhicules électriques et carburants alternatifs\n…see more",
             "current_job_title": "Management",
+            "email": "yves.desjardins@msss.gouv.qc.ca",
             "current_company": "Autobus Lion",
             "experiences": [
                 {
@@ -1053,6 +1066,7 @@
             "name": "Yves Terrat",
             "about": "Working in the field of genomic for more than 10 years but also familiar with experimental biology and molecular biology methods. Concepts of evolutionary biology are the driving force of my research philosphy. I am used to work for academic research related subjects (as bacterial genomes evolution & gut microbiome metagenomic analyses) as well as applied research fields (pathogen virulence & algae bloom prediction). Being now a specialist of massive data analysis, I always keep in mind to make a strong link of bioinformatic predictions and experimental data. I also strongly believe that specific bioinformatic tools should be designed for specific biological question thus making big data a lot more valuable and interesting than the standard predictions based on usual tools.\nFinally, I am a real team play and I love to discuss/explain/teach my research to various publics.\n…see more",
             "current_job_title": "Scientifique de données / Consortium en Santé numérique",
+            "email": "yves.terrat@umontreal.ca",
             "current_company": "Université de Montréal",
             "experiences": [
                 {
@@ -1115,6 +1129,7 @@
             "name": "Paule-Marjolaine Bodson-Clermont",
             "about": null,
             "current_job_title": "Biostatisticienne",
+            "email": "paule.bodson-clermont.chum@ssss.gouv.qc.ca",
             "current_company": "CRCHUM",
             "experiences": [
                 {
@@ -1168,6 +1183,7 @@
             "name": "Zakaria Benmassaoud\n(He/Him)",
             "about": "With over two years of experience as an analyst programmer and a technical lead, I am an IT Analyst at Services aux Autochtones Canada, where I apply my skills in PHP, MySQL, and Entity Framework Core to develop and maintain web applications that support the delivery of services to Indigenous communities.\n\nI have a strong background in machine learning, having completed an attestation of college studies in artificial intelligence and used Python, TensorFlow, Kafka, and other technologies to implement data-driven solutions at Desjardins, one of the largest financial cooperatives in Canada. I also have experience in cloud computing, using Azure and AWS to deploy and manage web services and applications. I am proficient in various programming languages, frameworks, databases, and IDEs, and I follow agile scrum methodology and best practices for project management. I am fluent in French, English, and Arabic, and I am committed to continuous learning and improvement.\n…see more",
             "current_job_title": "IT Analyst",
+            "email": "benmassaoud@gmail.com",
             "current_company": "Services aux Autochtones Canada | Indigenous Services Canada",
             "experiences": [
                 {
@@ -1284,6 +1300,7 @@
             "name": "Kamran Afzali",
             "about": "I am a quantitative psychologist and data scientist. I received my Ph.D. in psychology (Quantitative methods) from Toulouse University where I studied prediction modelling of risk behaviors and computational methods in social sciences. Currently, I work as a data specialist, research advisor, and independent data scientist. I specialize in development of computer-based assessment and decision-making tools in the context of human behavior. \nI am a quantitative psychologist and data scientist. I received my Ph.D. in psychology (Quantitative methods) from Toulouse University where I studied prediction modelling of risk behaviors and computational methods in social sciences. Currently, I work as a data specialist, research advisor, and independent data scientist. I specialize in development of computer-based assessment and decision-making tools in the context of human behavior.",
             "current_job_title": "Data Specialist-Senior Research Advisor at IVADO",
+            "email": "k.afzali@gmail.com",
             "current_company": "IVADO · Permanent Full-time",
             "experiences": [
                 {
@@ -1328,6 +1345,7 @@
             "name": "Majda Moussa",
             "about": null,
             "current_job_title": "Artificial Intelligence Consultant at UDM / IVADO",
+            "email": "majda.moussa@umontreal.ca",
             "current_company": "Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -1390,6 +1408,7 @@
             "name": "Agathe Moncorgé",
             "about": null,
             "current_job_title": "Data science developper",
+            "email": "agathe.moncorge.1@ens.etsmtl.ca",
             "current_company": "EOS imaging · Permanent Full-time",
             "experiences": [
                 {
@@ -1416,6 +1435,7 @@
             "name": "Anne-Sophie Zenses",
             "about": null,
             "current_job_title": "Post-doctorante",
+            "email": "annesophie.zenses@gmail.com",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -1469,6 +1489,7 @@
             "name": "Yan Bertrand",
             "about": null,
             "current_job_title": "Auxiliaire d'enseignement",
+            "email": "yan.bertrand@hotmail.com",
             "current_company": "Université de Montréal",
             "experiences": [
                 {
@@ -1504,6 +1525,7 @@
             "name": "Nuzhat N.",
             "about": "Devoted medical professional with 10+ years of experience in primary patient care and research, extensive work experience with patients suffering from pain, committed to patient welfare, compassionate, active listener with excellent leadership skill ,extremely organized, multi-tasking, quick decision-maker, outstanding team player\n\nSpecialties: Family Medicine, Primary care research, Public Health\n…see more",
             "current_job_title": "Research Coordinator",
+            "email": "mail.nuzhat@gmail.com",
             "current_company": "RI-MUHC | Research Institute of the MUHC | #rimuhc",
             "experiences": [
                 {
@@ -1530,6 +1552,7 @@
             "name": "Pascal St-Onge\n(He/Him)",
             "about": "With an extensive experience in data management and analytics across various sectors, I am driven to harness the power of data for innovation and improvement. My collaborative management style emphasizes mentoring data professionals, fostering project success, and building relationships with key stakeholders.\n\nI envision a future where data is fully utilized in both public and private sectors, enabling personalized solutions and promoting seamless data sharing for accelerated research and development. By implementing advanced data analysis techniques, maintaining data integrity and privacy, and cultivating a culture of continuous learning, I am confident we can unlock the true potential of data and transform industries across the board.\n…see more",
             "current_job_title": "Manager of the Centre for the Integration and Analysis of Medical Data (CITADEL)",
+            "email": "pascal.st-onge.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -1610,6 +1633,7 @@
             "name": "Yassine Lamrani",
             "about": null,
             "current_job_title": "Research Trainee",
+            "email": "yassine.lamrani@umontreal.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM) · Internship",
             "experiences": [
                 {
@@ -1627,6 +1651,7 @@
             "name": "Marianne Tremblay",
             "about": null,
             "current_job_title": "Learning Advisor (Conseillère en pédagogie)",
+            "email": "marianne.tremblay.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Contract Full-time",
             "experiences": [
                 {
@@ -1716,6 +1741,7 @@
             "name": "Simon Reeves",
             "about": "Ambition to develop at the boundary of theory and practice. I believe that the researcher-practitioner tends progressively towards emergence. \n\nSome facts :\nResearch (CRCHUM/HECMtl): The transformation of practices and innovation of the RSSS on Covid-19 + the emergence of revealed leaders\nMember of COVID SWAT TEAM at the CHUM\nInnovation advisor at the School of Artificial Intelligence in Health\n\nSocial :\n- Vice-president of the NPO Bouge ton parc - How to make a community move - To be followed for our next event - https://www.bougetonparc.com/\n---------------------------------------------\nAmbition de me développer à la frontière entre la théorie et la pratique. J'anticipe que le chercheur-praticien tend progressivement vers une émergence.\n\nQuelques faits :\nRecherche (CRCHUM/HECMtl) : La transformation des pratiques et l'innovation du RSSS sur la Covid-19 + l'émergence d'acteurs influents\nmembre de la cellule tactique COVID au CHUM\nConseiller en innovation à l'École de l'intelligence artificielle en santé\n\nCommunautaire :\n- Vice-président de l'OBNL Bouge ton parc (www.bougetonparc.com) - Comment mobiliser une communauté par l'activité physique - À suivre pour notre prochain événement\n…see more",
             "current_job_title": "Senior Advisor, Advanced Analytics and Practice Development ",
+            "email": "reevessimon7@gmail.com",
             "current_company": "Desjardins · Permanent Full-time",
             "experiences": [
                 {
@@ -1739,7 +1765,7 @@
                 {
                     "position_title": "Research apprentice",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "Qualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19\n----------\nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19. \n-------------\nQualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19 ---------- Recherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19. -------------",
+                    "description": "Qualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19\nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19.\nQualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19 \nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19.",
                     "duration": "2 yrs 2 mos",
                     "from_date": "May 2020",
                     "to_date": "Jun 2022",
@@ -1814,6 +1840,7 @@
             "name": "Antonin Birot",
             "about": null,
             "current_job_title": "Radiology resident",
+            "email": "anto.mineau@gmail.com",
             "current_company": "CHU de Lille · Internship",
             "experiences": [
                 {
@@ -1858,6 +1885,7 @@
             "name": "Patricia Auger",
             "about": null,
             "current_job_title": "Coordonnatrice de recherche",
+            "email": "patricia.auger.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -1920,6 +1948,7 @@
             "name": "Simon Reeves",
             "about": "Ambition to develop at the boundary of theory and practice. I believe that the researcher-practitioner tends progressively towards emergence. \n\nSome facts :\nResearch (CRCHUM/HECMtl): The transformation of practices and innovation of the RSSS on Covid-19 + the emergence of revealed leaders\nMember of COVID SWAT TEAM at the CHUM\nInnovation advisor at the School of Artificial Intelligence in Health\n\nSocial :\n- Vice-president of the NPO Bouge ton parc - How to make a community move - To be followed for our next event - https://www.bougetonparc.com/\n---------------------------------------------\nAmbition de me développer à la frontière entre la théorie et la pratique. J'anticipe que le chercheur-praticien tend progressivement vers une émergence.\n\nQuelques faits :\nRecherche (CRCHUM/HECMtl) : La transformation des pratiques et l'innovation du RSSS sur la Covid-19 + l'émergence d'acteurs influents\nmembre de la cellule tactique COVID au CHUM\nConseiller en innovation à l'École de l'intelligence artificielle en santé\n\nCommunautaire :\n- Vice-président de l'OBNL Bouge ton parc (www.bougetonparc.com) - Comment mobiliser une communauté par l'activité physique - À suivre pour notre prochain événement\n…see more",
             "current_job_title": "Senior Advisor, Advanced Analytics and Practice Development ",
+            "email": "reevessimon7@gmail.com",
             "current_company": "Desjardins · Permanent Full-time",
             "experiences": [
                 {
@@ -1943,7 +1972,7 @@
                 {
                     "position_title": "Research apprentice",
                     "institution_name": "Centre de recherche du CHUM (CRCHUM)",
-                    "description": "Qualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19\n----------\nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19. \n-------------\nQualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19 ---------- Recherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19. -------------",
+                    "description": "Qualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19\nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19. \nQualitative research CRCHUM and HEC Mtl: The transformation of professional practices, the capacity to innovate and the sharing of knowledge beyond established channels to meet the changing needs in times of crisis of COVID-19 \nRecherche qualitative CRCHUM et HEC Mtl : La transformation des pratiques professionnelles, la capacité d’innover et le partage de connaissances au-delà des canaux établis pour faire face aux besoins changeants en temps de crise de la COVID-19.",
                     "duration": "2 yrs 2 mos",
                     "from_date": "May 2020",
                     "to_date": "Jun 2022",
@@ -2018,6 +2047,7 @@
             "name": "Amiel ALLAB",
             "about": "Je cherche idéalement un poste à temps plein en recherche et développement dans le domaine de l'IA et l'imagerie.\nExpériences dans mon doctorat: \n- Méthodes de calibration / auto-calibration d'un système de stéréoradiographie / ou de stéréovision.\n- Méthodes d'apprentissage profond pour : la classification d'images médicales, la localisation et la compensation d'artefacts de mouvement sur les images radiographiques.\n…see more",
             "current_job_title": "Chargée de laboratoire",
+            "email": "allab.amiel@gmail.com",
             "current_company": "École de technologie supérieure (ÉTS) · Seasonal",
             "experiences": [
                 {
@@ -2053,6 +2083,7 @@
             "name": "Emmanuel Marier-Tétrault",
             "about": null,
             "current_job_title": "Nurse Practitioner",
+            "email": "emmanuel.marier-tetrault.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Full-time",
             "experiences": [
                 {
@@ -2079,6 +2110,7 @@
             "name": "Samuel Dragon",
             "about": null,
             "current_job_title": "Conseiller en soins infirmiers",
+            "email": "samuel.dragon.ccsmtl@ssss.gouv.qc.ca",
             "current_company": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal",
             "experiences": [
                 {
@@ -2159,6 +2191,7 @@
             "name": "Aretha Vees",
             "about": "https://aretha.website\nhttps://aretha.website",
             "current_job_title": "Agente de Recherche en Oncologie CRCHUM",
+            "email": "aretha.vees.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM) · Permanent Full-time",
             "experiences": [
                 {
@@ -2248,6 +2281,7 @@
             "name": "Frederic Leblond",
             "about": null,
             "current_job_title": "Professor",
+            "email": "leblondfrederic@gmail.com",
             "current_company": "Polytechnique Montréal",
             "experiences": [
                 {
@@ -2328,6 +2362,7 @@
             "name": "Nassim Ksantini",
             "about": "• Experience in research and development of biomedical imaging systems\n• Experience in electronic hardware systems conception\n• Excellent interpersonal skills and ability to handle responsibilities.\n• Strong oral and written communication skills\n• Great interest for high-technology industry applied to biomedical sciences\n…see more",
             "current_job_title": "Research Associate",
+            "email": "ksantini.nassim@gmail.com",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -2372,6 +2407,7 @@
             "name": "Olfa Driss",
             "about": "- Expérience en philanthropie et communications dans des fondations et organismes de bienfaisance canadiens\n- Excellentes compétences en rédaction et préparation de demandes de financement \n- Capacités en analyse, planification, sollicitation, gestion de dons majeurs et reconnaissance des donateurs\n- Excellent sens de l’organisation, gestion efficace des priorités et sens de l’éthique\n- Expérience en philanthropie et communications dans des fondations et organismes de bienfaisance canadiens - Excellentes compétences en rédaction et préparation de demandes de financement - Capacités en analyse, planification, sollicitation, gestion de dons majeurs et reconnaissance des donateurs - Excellent sens de l’organisation, gestion efficace des priorités et sens de l’éthique",
             "current_job_title": "Conseillère en développement philanthropique, dons majeurs, Faculté de médecine",
+            "email": "olfa.driss.chum@ssss.gouv.qc.ca",
             "current_company": "Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -2470,6 +2506,7 @@
             "name": "Georges Matar",
             "about": "Biomedical Engineer with a Ph.D,\n\nExperience in the four main facettes of the field: technical service, research, management, and academic teaching. \n\n𝐖𝐨𝐫𝐤𝐞𝐝 for two years in medical devices maintenance and sales, 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐝 for six years in bioinformatics, on neuroscience using computer vision and artificial intelligence, 𝐦𝐚𝐧𝐚𝐠𝐞𝐝 for four years a regional medical devices park, assets maintenance and development projects in the Québec health network for the north of Québec (Nunavik), and 𝐭𝐚𝐮𝐠𝐡𝐭 for six years Biomedical and Software engineering courses.\n\nIn each experience, I have made proof of excellence and exceptional passion to the field, according to my colleagues and managers.\n\nOpen to work in several fields. Do not hesitate to contact me for ideas, discussions, consultations.\n\nYou can reach me at: georgesmatar92@hotmail.com\n…see more",
             "current_job_title": "Regional Biomedical Engineering Manager ",
+            "email": "georgesmatar92@hotmail.com",
             "current_company": "Nunavik Regional Board of Health and Social Services · Full-time",
             "experiences": [
                 {
@@ -2559,12 +2596,13 @@
             "name": "Aude Motulsky",
             "about": "Co-directrice LabTNS labtns.ca\nDirectrice adjointe Consortium Santé numérique, Université de Montréal\nCo-responsable, Axe Santé durable, OBVIA\n\nIntérêts de recherche / Research interests\nTransformation numérique en santé, dossiers électroniques, évaluation des TI en santé, usage approprié des médicaments / Digital transformation in health care, electronic record, evaluation of digital health interventions, rationale medication use\n\nExperience\nExpérience combinée en recherche, gestion, enseignement et clinique (pharmacienne) / Combined experience in research, management, teaching and clinical practice (pharmacist).\n\nDistinctions / Awards\nBourse de chercheur, Fonds de recherche du Québec - Santé (2017-2021)\nBourse de formation post-doctorale, Instituts de recherche en santé du Canada (IRSC) / Post-doctoral fellowship from the Canadian Institute for Health Research (CIHR) (2014-2016)\nBourse de formation doctorale, Fonds de recherche en santé - Québec / Doctoral award from the Fonds de la recherche en santé - Québec (FRQS)\n\nMembre de l'Ordre des pharmaciens du Québec\nQuebec Order of Pharmacists since 2002\n\nVoir Research Gate pour les publications / See Research Gate for publications\nhttps://www.researchgate.net/profile/Aude_Motulsky\n…see more",
             "current_job_title": "Professeure agrégée",
+            "email": "aude.motulsky@umontreal.ca",
             "current_company": "École de santé publique de l'Université de Montréal",
             "experiences": [
                 {
                     "position_title": "Professeure agrégée",
                     "institution_name": "École de santé publique de l'Université de Montréal",
-                    "description": "https://espum.umontreal.ca/a-propos/equipe/personnel-enseignant/professeur/in/in28507/sg/Aude%20Motulsky/\nhttps://espum.umontreal.ca/a-propos/equipe/personnel-enseignant/professeur/in/in28507/sg/Aude%20Motulsky/",
+                    "description": "",
                     "duration": "6 yrs 2 mos",
                     "from_date": "Oct 2017",
                     "to_date": "Present",
@@ -2573,7 +2611,7 @@
                 {
                     "position_title": "Pharmacienne",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "4 yrs 4 mos",
                     "from_date": "Aug 2019",
                     "to_date": "Present",
@@ -2582,7 +2620,7 @@
                 {
                     "position_title": "Chercheure",
                     "institution_name": "CHUM - Centre hospitalier de l'Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "7 yrs 3 mos",
                     "from_date": "Sep 2016",
                     "to_date": "Present",
@@ -2600,7 +2638,7 @@
                 {
                     "position_title": "Stagiaire post-doctorale au Groupe de recherche en informatique de la santé",
                     "institution_name": "McGill University",
-                    "description": "http://mchi.mcgill.ca/fr/\nhttp://mchi.mcgill.ca/fr/",
+                    "description": "",
                     "duration": "3 yrs 1 mo",
                     "from_date": "Aug 2013",
                     "to_date": "Aug 2016",
@@ -2609,7 +2647,7 @@
                 {
                     "position_title": "Responsable de formation professionnelle",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "5 yrs 3 mos",
                     "from_date": "Jun 2011",
                     "to_date": "Aug 2016",
@@ -2618,7 +2656,7 @@
                 {
                     "position_title": "Professionnelle de recherche",
                     "institution_name": "Université de Montréal",
-                    "description": "<not serializable>",
+                    "description": "",
                     "duration": "9 yrs 6 mos",
                     "from_date": "2003 -",
                     "to_date": "2012",
@@ -2630,6 +2668,7 @@
             "name": "GERMAN DAVID ORTIZ",
             "about": "- Administrateur de bases de données SQL. 3ans\n- 6 années d’expérience comme analyste SQL (création de requêtes complexes et \n optimisation).\n- Développeur C# Junior.\n- Développeur avec PL/SQL, Forms, APEX et designer.\n- Analyste de données.\n- Analyse, conception et programmation des bases de données.\n- Facilité d’apprendre de nouveaux systèmes, flexibilité et innovation.\n- Capacité à travailler en équipe et à proposer des recommandations.\n- 10 années d’expérience en administration et soutien de réseaux informatiques.\n- Planification, installation, déploiement et entretien préventif des serveurs et des ordinateurs.\n- Optimisation du parc informatique et mise en place de solution assurant sa sécurité.\n- Analyse et résolution des problèmes techniques (logiciels et matériels).\n- Soutien technique auprès des usagers (courriel, logiciels, périphériques).\n- Bonne gestion du stress, bien organisé et méthodique.\n- Solides aptitudes dans l’élaboration de documents techniques.\n- Orienté vers le client.\n- Autonome.\n- Langues: Français, Anglais (niveau intermédiaire), Espagnol.\n…see more",
             "current_job_title": "DBA SQL",
+            "email": "ortizaristizabal@hotmail.com",
             "current_company": "GEXEL Télécom International · Permanent Full-time",
             "experiences": [
                 {
@@ -2719,6 +2758,7 @@
             "name": "Annie Comtois",
             "about": null,
             "current_job_title": "Consultante Marketing (à vos bureaux ou à distance)",
+            "email": "annie.comtois.chum@ssss.gouv.qc.ca",
             "current_company": "Annie Comtois | Consultante Marketing | Stratège Publicitaire | Création Sites Web",
             "experiences": [
                 {
@@ -2745,6 +2785,7 @@
             "name": "Denis Martineau",
             "about": null,
             "current_job_title": "Ingénieur de donnée",
+            "email": "denis.martineau@crchudequebec.ulaval.ca",
             "current_company": "Centre de recherche du CHU de Québec-Université Laval · Full-time",
             "experiences": [
                 {
@@ -2816,6 +2857,7 @@
             "name": "khedidja seridi",
             "about": null,
             "current_job_title": "Senior advisor - Digital Health",
+            "email": "Khedidja.seridi@umontreal.ca",
             "current_company": "IVADO - Consortium santé numérique",
             "experiences": [
                 {
@@ -2878,6 +2920,7 @@
             "name": "Nassima Atmani",
             "about": null,
             "current_job_title": "Analyste d'affaires - Ministère de la cybersécurité et du numérique",
+            "email": "Nassima.atmani.chum@ssss.gouv.qc.ca",
             "current_company": "Ministère de la Cybersécurité et du Numérique du Québec (MCN) · Permanent Full-time",
             "experiences": [
                 {
@@ -2931,6 +2974,7 @@
             "name": "Marie-Eve Belanger",
             "about": null,
             "current_job_title": "Agent de planification, programmation et recherche (APPR)",
+            "email": "marie-eve.belanger.chum@ssss.gouv.qc.ca",
             "current_company": "CIUSSS du Centre-Sud-de-l'Île-de-Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -2957,6 +3001,7 @@
             "name": "Rony Rincon",
             "about": "Systems and Electronic Engineer with strong skills in analysis, design and troubleshooting. ISTQB® Certified Tester over 20 years of IT experience, including 7 years as a QA analyst (manual testing) and 4 years as a test automator. Highly adaptable to changing technical environments with very strong analysis and organizational capacity. Highly motivated to keep learning, improving and growing professionally.\nSystems and Electronic Engineer with strong skills in analysis, design and troubleshooting. ISTQB® Certified Tester over 20 years of IT experience, including 7 years as a QA analyst (manual testing) and 4 years as a test automator. Highly adaptable to changing technical environments with very strong analysis and organizational capacity. Highly motivated to keep learning, improving and growing professionally.",
             "current_job_title": "Software Quality Assurance Engineer",
+            "email": "ronyrincon@gmail.com",
             "current_company": "CGI",
             "experiences": [
                 {
@@ -3091,6 +3136,7 @@
             "name": "Tarek Lajnef",
             "about": "My current research interests are in supervised machine learning and data mining algorithms and their applications in neuroscience field. With a focus on different features extraction techniques and their combinations to reach the best classification performances. In my last years my research activities, at University of Montreal and DYCOG lab in Lyon, I have been focusing on Sleep data classification and BCI (Brain Computer Interfaces) and several other projects related to neuroscience and machine learning.\n…see more",
             "current_job_title": "Data Scientist",
+            "email": "tarek.lajnef.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -3135,6 +3181,7 @@
             "name": "Ivan Torres",
             "about": null,
             "current_job_title": "Senior Analyst, IT Process & Solutions",
+            "email": "elefantegps@gmail.com",
             "current_company": "Saputo Inc.",
             "experiences": [
                 {
@@ -3170,6 +3217,7 @@
             "name": "Cécile Petitgand",
             "about": "Experte en gestion des données, IA et numérique responsable, je mets mon expertise au service des organisations publiques et privées pour la mise en conformité vis-à-vis des lois, règlements et politiques, ainsi que l'adoption de pratiques exemplaires en matière de gestion et de partage de données.\n\nJe souhaite favoriser un véritable dialogue citoyen autour des données et de leur utilisation au bénéfice des projets d'intérêt public.\n\nDécouvrir mes services : https://datalama.ca/",
             "current_job_title": "Présidente et Fondatrice",
+            "email": "cecile.petitgand.chum@ssss.gouv.qc.ca",
             "current_company": "Data Lama · Self-employed",
             "experiences": [
                 {
@@ -3349,6 +3397,7 @@
             "name": "William (Trung) Le\n(He/Him)",
             "about": "Research associate at MedicalLab in applied deep learning for cancer treatment with a focus on developing AI frameworks for computer-aided diagnosis and surgical guidance.\nResearch associate at MedicalLab in applied deep learning for cancer treatment with a focus on developing AI frameworks for computer-aided diagnosis and surgical guidance.",
             "current_job_title": "Research Associate",
+            "email": "williamtrungle@gmail.com",
             "current_company": "Centre de recherche du CHUM (CRCHUM) · Full-time",
             "experiences": [
                 {
@@ -3393,6 +3442,7 @@
             "name": "Camille Besse\n(He/Him)",
             "about": "Camille Besse obtained a Ph.D. in sequential decision-making in an uncertain context and has several years of experience, both in research and student supervision, as well as in teaching. He specializes in offering support and developing solutions adapted to the needs of both academic and industrial partners. He has been the Project Manager of the IID Internship program within the Professional Master’s degree in Computer Science – Artificial Intelligence since its creation and he actively works to ensure that the internship program will continue to flourish. He also has a keen interest in raising awareness on the ethical issues of secondary use of data, particularly in industrial settings.",
             "current_job_title": "Research Professional",
+            "email": "camille.besse@iid.ulaval.ca",
             "current_company": "Institut intelligence et données (IID)",
             "experiences": [
                 {
@@ -3545,6 +3595,7 @@
             "name": "François Pelletier",
             "about": "Professionnel, responsable, versatile et soucieux de la qualité, j'accumule plus de 12 années d'expérience dans le domaine de l'informatique et de la géomatique, allant de la conception et le développement de systèmes jusqu'à la rédaction de documents techniques et le conseil-expert auprès du client.\nProfessionnel, responsable, versatile et soucieux de la qualité, j'accumule plus de 12 années d'expérience dans le domaine de l'informatique et de la géomatique, allant de la conception et le développement de systèmes jusqu'à la rédaction de documents techniques et le conseil-expert auprès du client.",
             "current_job_title": "Senior software engineer",
+            "email": "francois.pelletier.6@ulaval.ca",
             "current_company": "Ticketmaster",
             "experiences": [
                 {
@@ -3607,6 +3658,7 @@
             "name": "Marie Pierre Faure",
             "about": "Dr. Marie Pierre Faure was a decisive team leader in medical clinics, biotech and pharmaceutical companies, and acted as an angel investor. She brings a unique business acumen built on an extensive experience in management, clinical operations, strategic planning, public policy, business development in North America and Europe, financing, and marketing. Some of her biotech success stories include co-founding and managing biotech companies where her dedicated leadership was vital for the development of the company from the stage of an innovative idea to a truly successful business, obtaining ISO certification, FDA, Health Canada and CE approvals for novel products, an impressive track record of patents, scientific publications, and articles of business interest.\nMarie Pierre is a dynamic and success-driven professional, and a talented and persuasive negotiator with proven skills in establishing business relationships with stakeholders. She boosts value and market share of an organization by accelerating the innovation process.\n\nSpecialities : Medical Clinic Management, e-health and connected health, innovative product development, regulatory affairs, global commercialization strategies, strategic planning, business development & business plans, marketing intelligence, coaching skills, negotiation of partnership agreements, strategic alliance with science in order to accelerate the innovation process",
             "current_job_title": "Board Member",
+            "email": "marie-pierre.faure@polymtl.ca",
             "current_company": "Fondation NeuroTrauma Marie-Robert",
             "experiences": [
                 {
@@ -3666,7 +3718,7 @@
                 {
                     "position_title": "CEO",
                     "institution_name": "CforCare Living Lab",
-                    "description": "CforCare Living Lab is in Montreal. It aims to establish an integrated eco-system, which supports the creaBon and the implementation of innovaBve health and care technologies. In CforCare Living Lab care health companies, 3rd sector, public sector and universiBes work together in synergy with end-users in seeking solutions.\nIn CforCare Living Lab the potential of ICT based technologies plays an important role and CforCare want to be a key player in interoperability.\nCforCare Living Lab is in Montreal. It aims to establish an integrated eco-system, which supports the creaBon and the implementation of innovaBve health and care technologies. In CforCare Living Lab care health companies, 3rd sector, public sector and universiBes work together in synergy with end-users in seeking solutions. In CforCare Living Lab the potential of ICT based technologies plays an important role and CforCare want to be a key player in interoperability.\nLa Presse 26 mai 2015\nLa Presse 26 mai 2015\ne-Triage skin cancer\ne-Triage skin cancer\nCMU prévention cancer Peau\nCMU prévention cancer Peau\nLa prévention peut sauver des vies !\nLa prévention peut sauver des vies !",
+                    "description": "CforCare Living Lab is in Montreal. It aims to establish an integrated eco-system, which supports the creaBon and the implementation of innovaBve health and care technologies. In CforCare Living Lab care health companies, 3rd sector, public sector and universiBes work together in synergy with end-users in seeking solutions.\nIn CforCare Living Lab the potential of ICT based technologies plays an important role and CforCare want to be a key player in interoperability.\nCforCare Living Lab is in Montreal. It aims to establish an integrated eco-system, which supports the creaBon and the implementation of innovaBve health and care technologies. In CforCare Living Lab care health companies, 3rd sector, public sector and universiBes work together in synergy with end-users in seeking solutions. In CforCare Living Lab the potential of ICT based technologies plays an important role and CforCare want to be a key player in interoperability.\nLa Presse 26 mai 2015\nLa Presse 26 mai 2015\ne-Triage skin cancer\ne-Triage skin cancer\nCMU prévention cancer Peau\nCMU prévention cancer Peau\nLa prévention peut sauver des vies !\nLa prévention peut sauver des vies !",
                     "duration": "4 yrs 11 mos",
                     "from_date": "Mar 2012",
                     "to_date": "2017",
@@ -3687,6 +3739,7 @@
             "name": "Brigitte Cote\n(She/Her)",
             "about": "Dre Brigitte Coté, MD, MSc, FRCPC \nProfesseur Adjoint de clinique, École de Santé Publique, Université de Montréal \nDre Brigitte Coté, MD, MSc, FRCPC Professeur Adjoint de clinique, École de Santé Publique, Université de Montréal",
             "current_job_title": "Physician specialist in public health ",
+            "email": "brigitte.cote@inesss.qc.ca",
             "current_company": "Institut national d'excellence en santé et en services sociaux (INESSS)",
             "experiences": [
                 {
@@ -3704,6 +3757,7 @@
             "name": "Lina Abou-Abbas",
             "about": "I have made significant contributions in the area of digital signal processing and recognition. \nI would like to further apply my research skills in the development of methodological tools in signal processing at various stages of the acquisition, processing and analysis and their applications, especially on biomedical signals such as EEG and ECG signals.\nAlso, an interesting area which I am eager to delve into is biomedical image processing, analysis, and classification. Finding the interesting characteristics from MRI imaging would be a major contribution step towards successful diagnostic.\n\nResearch Interests:\n\nAudio/Image signal processing;\nComputer audition including noise-robust sound recognition;\nSpeech/Speaker recognition;\nAnalysis of ECG/EEG signals;\nAudio source separation in various environmental conditions;\nSound information retrieval;\nMachine learning and modeling;",
             "current_job_title": "Postdoctoral Researcher, Ph.D.",
+            "email": "lina.abouabbas@gmail.com",
             "current_company": "McGill University",
             "experiences": [
                 {
@@ -3748,6 +3802,7 @@
             "name": "Lilia Brahimi\n(She/Her)",
             "about": "My research interests are at the intersection of digital health evaluation and implementation, ethical risk assessments and artificial intelligence for healthcare.\nMy research interests are at the intersection of digital health evaluation and implementation, ethical risk assessments and artificial intelligence for healthcare.",
             "current_job_title": "Professionnelle scientifique",
+            "email": "lilia.brahimi97@gmail.com",
             "current_company": "Institut national d'excellence en santé et en services sociaux (INESSS) · Contract Full-time",
             "experiences": [
                 {
@@ -3819,6 +3874,7 @@
             "name": "Sameher Ajili",
             "about": "Je suis une étudiante récemment diplômée en Master de Recherche en électronique embarquée et nanomatériaux, avec une passion pour l'innovation technologique et la résolution de problèmes complexes. Au cours de mon parcours académique, j'ai acquis des connaissances et des compétences en conception de circuits électroniques, en programmation et en caractérisation de nanomatériaux.\n\nEn plus de mon parcours académique, j'ai également eu l'opportunité d'effectuer un stage à l'Université TELUQ à Montréal, où j'ai pu travailler en équipe sur des projets de recherche liés à la conception des modèles qui sont basés sur les algorithmes d'apprentissage automatique et profond . Cette expérience m'a permis de développer mes compétences en communication et en collaboration, ainsi que ma capacité à travailler sous pression pour respecter les délais.\n\nJe suis à la recherche d'opportunités pour poursuivre ma carrière. Je suis ouverte à toutes les opportunités, y compris les stages et les emplois à temps plein. N'hésitez pas à me contacter sur mon e-mail samaherajili@gmail.com, si vous êtes intéressé par mon profil ou si vous souhaitez en savoir plus sur mon parcours académique et professionnel.",
             "current_job_title": "Chercheuse",
+            "email": "samaherajili@gmail.com",
             "current_company": "Université TÉLUQ · Internship",
             "experiences": [
                 {
@@ -3836,6 +3892,7 @@
             "name": "Laetitia Constantin",
             "about": "I'm currently working at Abbeal Montréal, a consulting IT company, as a FullStack JS developer. I also have a hat in Data Science and Artificial Intelligence, thanks to my studies. I hope to develop my skills further this year.\n\nWhat do I like about my job ? Everything, except fixing 15 years old applications that are full of technical debt. In other words, I like to create things from nothing, or almost nothing. From customer relations, to data exploitation (process optimization research through data analysis and AI integration), through the study of the need and the development in agile form, I am very curious, eager to know and master the product from A to Z.\n\nMoreover, because of covid-19, autonomy and rigor are the key words of my remote days, even if I’d rather going on site to help each other and discuss new technological nuggets.\n\nI only ask to go involved in your new project. If you're looking for a consultant who can multi-task with a smile, then please contact me. If you are a student, or looking for a job in the sector, and you want to talk about the job, feel free to add me and send me a message.\n\n--------------------------------------------------------------------------------------\n\nJe travaille actuellement à Abbeal Montréal, une société de consultation dans le domaine de l’IT, en tant que développeuse FullStack JS. Je possède également une casquette en Data Science et en Intelligence Artificielle, grâce à mon master. Casquette que j’espère bien développer davantage cette année.\n\nCe que j’aime dans mon métier ? Tout, excepté corriger des applications qui ont 15 ans et qui sont remplies de dettes techniques. En d’autres termes, j’aime créer les choses à partir de rien, ou presque rien. De la relation client, à l’exploitation des données (recherche d’optimisation des processus par l’analyse des données et l’intégration d’IA), en passant par l’étude du besoin et le développement sous forme agile, je suis une grande curieuse, désireuse de connaître et maîtriser le produit de A à Z.\n\nPar ailleurs, covid-19 oblige, autonomie et rigueur sont les maîtres mots de mes journées de télétravail, même si je préfère aller sur site pour pouvoir s’entraider et discuter des nouvelles pépites technologiques.\n\nJe ne demande qu’à m’investir dans votre nouveau projet. Si vous recherchez une consultante capable d’être multi-fonction et avec le sourire en plus, alors n’hésitez pas à me contacter. Si vous êtes étudiant, ou à la recherche d’un emploi dans le secteur, et que vous désirez échanger sur le métier, n’hésitez pas à m’ajouter et m’envoyer un message.",
             "current_job_title": "Frontend Developer",
+            "email": "laetitiaconstantin1998@gmail.com",
             "current_company": "Bell · Contract Full-time",
             "experiences": [
                 {
@@ -3898,6 +3955,7 @@
             "name": "Adrian Evans",
             "about": "Specialties: Digital design. functional verification, modeling, simulation, reliability analysis, soft-error effects, system architecture.\nSpecialties: Digital design. functional verification, modeling, simulation, reliability analysis, soft-error effects, system architecture.",
             "current_job_title": "Research Engineer",
+            "email": "adrian.evans@cea.fr",
             "current_company": "CEA / LETI",
             "experiences": [
                 {
@@ -3969,6 +4027,7 @@
             "name": "Julia Guérineau\n(she/her/elle)",
             "about": "Docteure en ingénierie industrielle, mes travaux de recherche se sont concentrés sur l'évolution du développement de produits à plusieurs niveaux dans les entreprises (approches, processus, méthodes et outils) en lien avec l'évolution de leurs produits vers des produits multidisciplinaires. J'ai une compréhension poussée des produits et systèmes mécatroniques, \"intelligents\", des systèmes cyber-physiques, de l'Internet des Objets et de la 4ème révolution industrielle (Industrie 4.0). Je suis passionnée par le développement de produits complexes, l'innovation et les transformations dans les entreprises, notamment l'influence des nouvelles technologies. Avant d'obtenir mon doctorat j'ai également suivi une formation d'ingénieure en génie des systèmes mécaniques, filière management de projets innovants à l'Université de Technologie de Compiègne.",
             "current_job_title": "Chercheuse institutionnelle ",
+            "email": "julia.guerineau27@gmail.com",
             "current_company": "École de technologie supérieure (ÉTS) · Contract Full-time",
             "experiences": [
                 {
@@ -4058,6 +4117,7 @@
             "name": "Katia Amrane",
             "about": null,
             "current_job_title": "Registred Nurse",
+            "email": "katia-amrane@outlook.com",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -4129,6 +4189,7 @@
             "name": "Jason Ardel",
             "about": "- Specialist in IT for more than 15 years.\n- Specialization in artificial intelligence and machine learning\n- Preparation, exploration and data processing\n- Application of algorithm for production of ML solution\n- Management of the process from collection to AI deployment\n- Developer (DEC in programming)",
             "current_job_title": "Artificial Intelligence Adviser",
+            "email": "jasonardel@gmail.com",
             "current_company": "Ministère de la santé et des services sociaux · Permanent Full-time",
             "experiences": [
                 {
@@ -4173,6 +4234,7 @@
             "name": "Natalie Dion",
             "about": null,
             "current_job_title": "PhD,Spécialiste clinique en biologie médicale / Clinical specialist in laboratory medicine",
+            "email": "natalie.dion.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -4199,6 +4261,7 @@
             "name": "Yano Claudia Tchatchouang",
             "about": "Je suis diplômée d'un Baccalauréat en génie électrique, concentration Biomédicale et d'une maîtrise en génie clinique. Au cours de ces formations, j’ai étudié multiples branches de la gestion en milieu hospitalier : Évaluation des technologies de la santé, Ingénierie industrielle des systèmes de santé et Processus et configuration de projets techniques.\nDe plus, mon intérêt marqué pour la gestion m’a poussé à suivre une formation complémentaire en administration des affaires à l’université du Québec à Chicoutimi (2019-2022). Ainsi, grâce à la réalisation des projets d’école avec des cas réels d’entreprises, je peux effectuer des tâches de gestion telles que: la définition des lots d’engagements, l’estimation des coûts et des échéanciers, le contrôle des documents, l’analyse et l’évaluation des soumissions, la gestion des ressources, la manipulation de logiciels de la galerie Microsoft, et bien d’autres.\n\nJ'ai 5 années d'expérience comme ingénieure biomédicale en milieu hospitalier (2017-2022). En général, mon travail consistait à assurer une utilisation fiable et sécuritaire des équipements médicaux. Dans mes tâches quotidiennes, j'ai travaillé en étroite collaboration avec le personnel clinique (médecins, infirmières, technologues et gestionnaires de service) afin d’évaluer et de prioriser leurs besoins lors de l’acquisition d’équipements médicaux. J'ai principalement dirigé les projets d’acquisition d’équipements en imagerie médicale, électrophysiologie et médecine nucléaire (via des processus d’appel d’offres, d’achat en commun ou gré-à-gré). Ceci impliquait une collaboration avec un chargé de projet du côté clinique, un autre du secteur des bâtiments et des entrepreneurs externes (firme d’architecture, de génie civil, mécanique et électrique). En tant que responsable de livrable biomédical, mon rôle a été de valider la conformité des différents plans vis-à-vis des normes et recommandations du ministère de la santé et des services sociaux (Guide de planification et de l'aménagement) lors de la mise en service du système d’imagerie médicale (tomodensitomètre, IRM, systèmes de radiographie ou radioscopie et autres) à installer.\n\nActuellement, je travaille comme conseillère en recherche et innovation au bureau de l'innovation du ministère de la santé et des services sociaux. Ce nouveau challenge me permet de mettre en pratique les éléments d'analyse de modèles d'affaires acquises au cours de ma formation en administration.\n…see more",
             "current_job_title": "Conseillère en innovation des technologies médicales au Bureau de l'innovation",
+            "email": "yano-claudia.tchatchouang.recherche@msss.gouv.qc.ca",
             "current_company": "Ministère de la Santé et des Services sociaux du Québec (MSSS) · Contract Full-time",
             "experiences": [
                 {
@@ -4270,6 +4333,7 @@
             "name": "Doctor Captain (retired) Stephane Bourassa, PhD, BSc, RN, Adv RPAS Pilot, CD",
             "about": null,
             "current_job_title": "Hazard preparedness subgroup of Clinical Decision Support Systems Laboratory",
+            "email": "sb@medintcbrne.com",
             "current_company": "Regroupement en IA appliquée en soins aigus de l'enfant",
             "experiences": [
                 {
@@ -4341,6 +4405,7 @@
             "name": "Yosra Cherni",
             "about": null,
             "current_job_title": "Assistant Professor",
+            "email": "yosra.cherni@umontreal.ca",
             "current_company": "Université de Montréal",
             "experiences": [
                 {
@@ -4484,12 +4549,13 @@
             "name": "Annthomy GILLES",
             "about": "Because the world is driven by technological advances and progress in science, I am convinced that the future of our societies relies on our ability to effectively leverage technological and scientific advancements, particularly in artificial intelligence. It is from this perspective that my vision of a science that, when efficiently exploited, has the potential to transform our societies was born. My ambition is to contribute to this revolution by bringing in-depth expertise in the analysis of massive data.\n\nI have acquired skills in data analysis and software development by working closely with multidisciplinary and international teams. In such contexts, I have been constantly challenged to question the status quo by learning more about the discoveries in my field of expertise, effectively communicating my work, and precisely understanding the role of each collaborator – fundamental elements to address the major challenges of research.\n\nWith this experience, I am now particularly passionate about massive data analysis, the development of high-value-added analysis workflows, and data science. Ultimately, I'm convinced that my dual skills in science and IT will give me an even more accomplished vision of AI at the service of organisations.",
             "current_job_title": "Data Scientist - Senior Consultant",
+            "email": "annthomy.gilles@gmail.com",
             "current_company": "KPMG Canada · Permanent Full-time",
             "experiences": [
                 {
                     "position_title": "Data Scientist - Senior Consultant",
                     "institution_name": "KPMG Canada · Permanent Full-time",
-                    "description": "- Assisting teams in the development of machine learning pipelines, providing expertise and technical support to address their specific challenges.\n- Development and deployment of robust data governance frameworks, ensuring optimal utilization, quality, and integrity of databases.\n- Advising and guiding clients on best practices in data governance, regulatory compliance, and industry standards.\n- Design and development of innovative solutions based on LLMs, machine learning, and natural language processing (NLP).\n- Close collaboration with multidisciplinary teams for a seamless integration of generative AI into various projects.\n- Translation of advanced technical concepts into pragmatic business solutions, effectively highlighting the added value and benefits of generative AI for stakeholders.\n- Assisting teams in the development of machine learning pipelines, providing expertise and technical support to address their specific challenges. - Development and deployment of robust data governance frameworks, ensuring optimal utilization, quality, and integrity of databases. - Advising and guiding clients on best practices in data governance, regulatory compliance, and industry standards. - Design and development of innovative solutions based on LLMs, machine learning, and natural language processing (NLP). - Close collaboration with multidisciplinary teams for a seamless integration of generative AI into various projects. - Translation of advanced technical concepts into pragmatic business solutions, effectively highlighting the added value and benefits of generative AI for stakeholders.\nSkills: Science informatique · Modélisation statistique · Gestion de produit · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Deep learning · Gestion de projet · Keras · TensorFlow · Langchain · Python · MongoDB · Docker · Analyse de données · ElasticSearch\nSkills:Science informatique · Modélisation statistique · Gestion de produit · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Deep learning · Gestion de projet · Keras · TensorFlow · Langchain · Python · MongoDB · Docker · Analyse de données · ElasticSearch",
+                    "description": "Assisting teams in the development of machine learning pipelines, providing expertise and technical support to address their specific challenges.\n- Development and deployment of robust data governance frameworks, ensuring optimal utilization, quality, and integrity of databases.\n- Advising and guiding clients on best practices in data governance, regulatory compliance, and industry standards.\n- Design and development of innovative solutions based on LLMs, machine learning, and natural language processing (NLP).\n- Close collaboration with multidisciplinary teams for a seamless integration of generative AI into various projects.\n- Translation of advanced technical concepts into pragmatic business solutions, effectively highlighting the added value and benefits of generative AI for stakeholders.\n- Assisting teams in the development of machine learning pipelines, providing expertise and technical support to address their specific challenges. - Development and deployment of robust data governance frameworks, ensuring optimal utilization, quality, and integrity of databases. - Advising and guiding clients on best practices in data governance, regulatory compliance, and industry standards. - Design and development of innovative solutions based on LLMs, machine learning, and natural language processing (NLP). - Close collaboration with multidisciplinary teams for a seamless integration of generative AI into various projects. - Translation of advanced technical concepts into pragmatic business solutions, effectively highlighting the added value and benefits of generative AI for stakeholders.\nSkills: Science informatique · Modélisation statistique · Gestion de produit · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Deep learning · Gestion de projet · Keras · TensorFlow · Langchain · Python · MongoDB · Docker · Analyse de données · ElasticSearch\nSkills:Science informatique · Modélisation statistique · Gestion de produit · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Deep learning · Gestion de projet · Keras · TensorFlow · Langchain · Python · MongoDB · Docker · Analyse de données · ElasticSearch",
                     "duration": "1 yr 2 mos",
                     "from_date": "Oct 2022",
                     "to_date": "Present",
@@ -4534,7 +4600,7 @@
                 {
                     "position_title": "Data scientist (sandwich program)",
                     "institution_name": "bioMerieux · Apprenticeship",
-                    "description": "Project Context:\n Build a decision support system for improving doctors prescribing behavior during infectious disease\n\nFullfilments:\nWorkflow of differential bacterial expression analysis:\n- Inferential statistics\n- Regressions\n- Develop workflows responsible for the extraction of data, their cleaning, transformation and analysis\n- Collaborating with R&D and marketing professionals for writing market insights reports\nDeveloping tools for data anlysis and visualization\n- Python, matplotlib, scikit-learn, Seaborn, pandas, R, shell\nAssessment and optimization of sequences databases\n- R, Statistics, Hypothesis testing, python, Shel\nMetagenomic data analysis and molecular diagnostic tools development:\n- Worflow for predicting bacterial infection\nAssessment and analysis of a new technology (Oxford nanopore) and recommendation to business leaders\n- - - - - - - - - - - - - - - - - - - - \nKeywords : Inferential Statistics, Machine learning, Dimensionality reduction, Business intelligence, Metagenomic, Differential abundance analysis, DESeq2,Nanopore. \n\nStatistics : Descriptives Statistics , Inferential statistics, hypothesis testing, Regression (Linear regression, logistic regression), Markov model, Correlation, dimensionality reduction (PCA, t-SNE)\n\nMachine learning : Clustering, Decision tree, KNN, SVM, Random forest\n\nTools/modules* : scikit-learn, scipy, numpy, matplotlib, seaborn, Git, MongoDB, Pymongo, Bootstrap, SQL, PostgreSQL.\n\nLangages* : Python, R, Bash, HTML5/CSS3, Javascript.\nProject Context: Build a decision support system for improving doctors prescribing behavior during infectious disease Fullfilments: Workflow of differential bacterial expression analysis: - Inferential statistics - Regressions - Develop workflows responsible for the extraction of data, their cleaning, transformation and analysis - Collaborating with R&D and marketing professionals for writing market insights reports Developing tools for data anlysis and visualization - Python, matplotlib, scikit-learn, Seaborn, pandas, R, shell Assessment and optimization of sequences databases - R, Statistics, Hypothesis testing, python, Shel Metagenomic data analysis and molecular diagnostic tools development: - Worflow for predicting bacterial infection Assessment and analysis of a new technology (Oxford nanopore) and recommendation to business leaders - - - - - - - - - - - - - - - - - - - - Keywords : Inferential Statistics, Machine learning, Dimensionality reduction, Business intelligence, Metagenomic, Differential abundance analysis, DESeq2,Nanopore. Statistics : Descriptives Statistics , Inferential statistics, hypothesis testing, Regression (Linear regression, logistic regression), Markov model, Correlation, dimensionality reduction (PCA, t-SNE) Machine learning : Clustering, Decision tree, KNN, SVM, Random forest Tools/modules* : scikit-learn, scipy, numpy, matplotlib, seaborn, Git, MongoDB, Pymongo, Bootstrap, SQL, PostgreSQL. Langages* : Python, R, Bash, HTML5/CSS3, Javascript.\nSkills: Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Big Data · machine learning · Bio-informatique · Analyse de données\nSkills:Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Big Data · machine learning · Bio-informatique · Analyse de données",
+                    "description": "Project Context:\n Build a decision support system for improving doctors prescribing behavior during infectious disease\n\nFullfilments:\nWorkflow of differential bacterial expression analysis:\n- Inferential statistics\n- Regressions\n- Develop workflows responsible for the extraction of data, their cleaning, transformation and analysis\n- Collaborating with R&D and marketing professionals for writing market insights reports\nDeveloping tools for data anlysis and visualization\n- Python, matplotlib, scikit-learn, Seaborn, pandas, R, shell\nAssessment and optimization of sequences databases\n- R, Statistics, Hypothesis testing, python, Shel\nMetagenomic data analysis and molecular diagnostic tools development:\n- Worflow for predicting bacterial infection\nAssessment and analysis of a new technology (Oxford nanopore) and recommendation to business leaders\nKeywords : Inferential Statistics, Machine learning, Dimensionality reduction, Business intelligence, Metagenomic, Differential abundance analysis, DESeq2,Nanopore. \n\nStatistics : Descriptives Statistics , Inferential statistics, hypothesis testing, Regression (Linear regression, logistic regression), Markov model, Correlation, dimensionality reduction (PCA, t-SNE)\n\nMachine learning : Clustering, Decision tree, KNN, SVM, Random forest\n\nTools/modules* : scikit-learn, scipy, numpy, matplotlib, seaborn, Git, MongoDB, Pymongo, Bootstrap, SQL, PostgreSQL.\n\nLangages* : Python, R, Bash, HTML5/CSS3, Javascript.\nProject Context: Build a decision support system for improving doctors prescribing behavior during infectious disease Fullfilments: Workflow of differential bacterial expression analysis: - Inferential statistics - Regressions - Develop workflows responsible for the extraction of data, their cleaning, transformation and analysis - Collaborating with R&D and marketing professionals for writing market insights reports Developing tools for data anlysis and visualization - Python, matplotlib, scikit-learn, Seaborn, pandas, R, shell Assessment and optimization of sequences databases - R, Statistics, Hypothesis testing, python, Shel Metagenomic data analysis and molecular diagnostic tools development: - Worflow for predicting bacterial infection Assessment and analysis of a new technology (Oxford nanopore) and recommendation to business leaders\nKeywords : Inferential Statistics, Machine learning, Dimensionality reduction, Business intelligence, Metagenomic, Differential abundance analysis, DESeq2,Nanopore. Statistics : Descriptives Statistics , Inferential statistics, hypothesis testing, Regression (Linear regression, logistic regression), Markov model, Correlation, dimensionality reduction (PCA, t-SNE) Machine learning : Clustering, Decision tree, KNN, SVM, Random forest Tools/modules* : scikit-learn, scipy, numpy, matplotlib, seaborn, Git, MongoDB, Pymongo, Bootstrap, SQL, PostgreSQL. Langages* : Python, R, Bash, HTML5/CSS3, Javascript.\nSkills: Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Big Data · machine learning · Bio-informatique · Analyse de données\nSkills:Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Big Data · machine learning · Bio-informatique · Analyse de données",
                     "duration": "2 yrs 1 mo",
                     "from_date": "Sep 2016",
                     "to_date": "Sep 2018",
@@ -4543,7 +4609,7 @@
                 {
                     "position_title": "Computational biologist - internship",
                     "institution_name": "Max-Planck Insftitute for Biology of Ageing",
-                    "description": "The ability to comprehensively examine the genome in a high-throughput and unbiased manner has generated a great deal of interest in the use of NGS platforms to detect a great number of potential disease-causing variants. \nI had to develop:\n- A differential gene expression analysis workflow largely based on Python, shell and R language. \n- A variant calling pipeline based on GATK walkers.\n\nBy performing statistical analysis, both pipeline begins with raw sequencing reads and produces a lists of differentially expressed and regulated genes and transcripts or a list of significant variants with high quality data visualization.\n\n-----------------------------\nMethods and tools to be used during the internship:\nBash, Python, R, Tuxedo suite, DeSEQ2, MEME suite, GATK,Picards-tools,Stringtie,Go enrichment, Variant calling, differential expression.\nThe ability to comprehensively examine the genome in a high-throughput and unbiased manner has generated a great deal of interest in the use of NGS platforms to detect a great number of potential disease-causing variants. I had to develop: - A differential gene expression analysis workflow largely based on Python, shell and R language. - A variant calling pipeline based on GATK walkers. By performing statistical analysis, both pipeline begins with raw sequencing reads and produces a lists of differentially expressed and regulated genes and transcripts or a list of significant variants with high quality data visualization. ----------------------------- Methods and tools to be used during the internship: Bash, Python, R, Tuxedo suite, DeSEQ2, MEME suite, GATK,Picards-tools,Stringtie,Go enrichment, Variant calling, differential expression.\nSkills: Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Bio-informatique · Analyse de données\nSkills:Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Bio-informatique · Analyse de données",
+                    "description": "The ability to comprehensively examine the genome in a high-throughput and unbiased manner has generated a great deal of interest in the use of NGS platforms to detect a great number of potential disease-causing variants. \nI had to develop:\n- A differential gene expression analysis workflow largely based on Python, shell and R language. \n- A variant calling pipeline based on GATK walkers.\n\nBy performing statistical analysis, both pipeline begins with raw sequencing reads and produces a lists of differentially expressed and regulated genes and transcripts or a list of significant variants with high quality data visualization.\nMethods and tools to be used during the internship:\nBash, Python, R, Tuxedo suite, DeSEQ2, MEME suite, GATK,Picards-tools,Stringtie,Go enrichment, Variant calling, differential expression.\nThe ability to comprehensively examine the genome in a high-throughput and unbiased manner has generated a great deal of interest in the use of NGS platforms to detect a great number of potential disease-causing variants. I had to develop: - A differential gene expression analysis workflow largely based on Python, shell and R language. - A variant calling pipeline based on GATK walkers. By performing statistical analysis, both pipeline begins with raw sequencing reads and produces a lists of differentially expressed and regulated genes and transcripts or a list of significant variants with high quality data visualization. Methods and tools to be used during the internship: Bash, Python, R, Tuxedo suite, DeSEQ2, MEME suite, GATK,Picards-tools,Stringtie,Go enrichment, Variant calling, differential expression.\nSkills: Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Bio-informatique · Analyse de données\nSkills:Science informatique · Modélisation statistique · Compétences analytiques · Exploration des données · Extract, Transform, Load (ETL) · Python · Statistiques · Bio-informatique · Analyse de données",
                     "duration": "6 mos",
                     "from_date": "Mar 2016",
                     "to_date": "Aug 2016",
@@ -4552,7 +4618,7 @@
                 {
                     "position_title": "Biological Engineer - Intern",
                     "institution_name": "Merial, a Sanofi Company",
-                    "description": "Characterization of virulence factors and vaccine targets of a bacterial canine pathogen:\n- Generating collections of transposon mutants (conjugation)\n- Characterizing genotype and phenotype of mutants (PCR, growth curves, microscopy, Facs analyses)\n- Optimizing protocols for flow cytometry analyses\n- Characterizing immunogenicity and antigenicity of selected vaccine targets (western blot, immunofluorescence)\n\n---------------------------------\nKeywords: Cell culture techniques, Flow cytometry,Immunofluorescence,Genetic Engineering,Northern and Western blotting, Fluorescent and confocal microscopy, PCR.\nCharacterization of virulence factors and vaccine targets of a bacterial canine pathogen: - Generating collections of transposon mutants (conjugation) - Characterizing genotype and phenotype of mutants (PCR, growth curves, microscopy, Facs analyses) - Optimizing protocols for flow cytometry analyses - Characterizing immunogenicity and antigenicity of selected vaccine targets (western blot, immunofluorescence) --------------------------------- Keywords: Cell culture techniques, Flow cytometry,Immunofluorescence,Genetic Engineering,Northern and Western blotting, Fluorescent and confocal microscopy, PCR.\nSkills: Compétences analytiques · Exploration des données\nSkills:Compétences analytiques · Exploration des données",
+                    "description": "Characterization of virulence factors and vaccine targets of a bacterial canine pathogen:\n- Generating collections of transposon mutants (conjugation)\n- Characterizing genotype and phenotype of mutants (PCR, growth curves, microscopy, Facs analyses)\n- Optimizing protocols for flow cytometry analyses\n- Characterizing immunogenicity and antigenicity of selected vaccine targets (western blot, immunofluorescence)\nKeywords: Cell culture techniques, Flow cytometry,Immunofluorescence,Genetic Engineering,Northern and Western blotting, Fluorescent and confocal microscopy, PCR.\nCharacterization of virulence factors and vaccine targets of a bacterial canine pathogen: - Generating collections of transposon mutants (conjugation) - Characterizing genotype and phenotype of mutants (PCR, growth curves, microscopy, Facs analyses) - Optimizing protocols for flow cytometry analyses - Characterizing immunogenicity and antigenicity of selected vaccine targets (western blot, immunofluorescence) Keywords: Cell culture techniques, Flow cytometry,Immunofluorescence,Genetic Engineering,Northern and Western blotting, Fluorescent and confocal microscopy, PCR.\nSkills: Compétences analytiques · Exploration des données\nSkills:Compétences analytiques · Exploration des données",
                     "duration": "7 mos",
                     "from_date": "Mar 2015",
                     "to_date": "Sep 2015",
@@ -4591,6 +4657,7 @@
             "name": "Marie-France Thibault",
             "about": null,
             "current_job_title": "Conseillère en IA et valorisation des données - Vigie & transfert des connaissances",
+            "email": "marie-France.thibault.iucpq@ssss.gouv.qc.ca",
             "current_company": "Centre d'expertise en intelligence artificielle et valorisation des données (CEIAVD) · Permanent Full-time",
             "experiences": [
                 {
@@ -4644,6 +4711,7 @@
             "name": "Christina Khnaisser",
             "about": null,
             "current_job_title": "Professeure, Faculté de médecine et des sciences de la santé et Faculté des sciences",
+            "email": "Christina.Khnaisser@usherbrooke.ca",
             "current_company": "Université de Sherbrooke · Contract Full-time",
             "experiences": [
                 {
@@ -4676,7 +4744,7 @@
                 {
                     "position_title": "Chargé de cours",
                     "institution_name": "Université de Sherbrooke · Apprenticeship",
-                    "description": "IFT 187 - Éléments de bases de données\nhttp://info.usherbrooke.ca/ckhnaisser/enseignements.html\nIFT 187 - Éléments de bases de données http://info.usherbrooke.ca/ckhnaisser/enseignements.html",
+                    "description": "IFT 187 - Éléments de bases de données",
                     "duration": "5 mos",
                     "from_date": "Jan 2020",
                     "to_date": "May 2020",
@@ -4742,6 +4810,7 @@
             "name": "Rawane SAMB",
             "about": " Créer des modèles statistiques et analyser des données;\n- Gérer un environnement matériel et logiciel de mégadonnées (Big Data);\n- Gérer des entrepôts de données (Data Warehouse); \n- Acquérir, ingérer et gérer les données;\n- Exploiter un outil de visualisation (reporting) pour la prise de décision d’affaires;\n- Définir des interfaces de données, des documents de conversion de données, des objets informatiques, des sources d’information et de la conception de rapports;\n- Acquérir les compétences nécessaires pour faire de la fouille de données (Data mining).\n…see more",
             "current_job_title": "Professionnel de recherche",
+            "email": "rawdaba@gmail.com",
             "current_company": "CISSS de Chaudière-Appalaches",
             "experiences": [
                 {
@@ -4786,6 +4855,7 @@
             "name": "Sylvie Nichols",
             "about": "I am a Senior Manager with demonstrated ability for market development in the Canadian pharmaceutical and medical device industry.\n\nI thrive with my solid understanding of scientific data, healthcare technology assessment and patient engagement. I am proficient in organizing and communicating in complex scientific and commercial environment.\n\nCreative and analytical, I stay abreast of emerging healthcare solutions and foster opportunities to leverage them in healthcare value initiatives. I am recognized as a collaborative team leader motivating toward implementation of successful innovative and profitable strategies.\n\n• Scientific Data Assessment\n• Economic and Budgetary Impact Analysis\n• Market Assessment and Monitoring\n• Pharmaceutical Pricing\n• Strategic Thinking and Planning\n• Cross-Functional Team Leadership\n• Brand Launch & Management\n• Key Stakeholders Management\n…see more",
             "current_job_title": "Senior Manager, Regional Market Access",
+            "email": "sylvie_nichols@edwards.com",
             "current_company": "Edwards Lifesciences · Permanent Full-time",
             "experiences": [
                 {
@@ -4848,6 +4918,7 @@
             "name": "Yassine Benhajali",
             "about": "Multidisciplinary background with over 10 years of experience in research at the intersection of brain science and anthropology. Passionate about AI and learning new techniques in a variety of fields related to the study of human behavior and mental health.\nMultidisciplinary background with over 10 years of experience in research at the intersection of brain science and anthropology. Passionate about AI and learning new techniques in a variety of fields related to the study of human behavior and mental health.",
             "current_job_title": "Spécialiste en apprentissage automatique et statistique axé sur la santé mentale",
+            "email": "yassine.benhajali@gmail.com",
             "current_company": "Douglas Mental Health Institute · Permanent Full-time",
             "experiences": [
                 {
@@ -4928,6 +4999,7 @@
             "name": "Benjamin Dalmas",
             "about": null,
             "current_job_title": "Manager Research & Innovation",
+            "email": "benjamin.dalmas@crim.ca",
             "current_company": "Bonitasoft · Permanent Full-time",
             "experiences": [
                 {
@@ -5008,6 +5080,7 @@
             "name": "Bénédicte Lucazeau",
             "about": "Auxiliaire de recherche pour contribuer à un projet sur \"Enjeux éthiques de la conception des Technologies Éducatives Impliquant l'Intelligence Artificielle (TÉIIA) ». Chaire de recherche au Canada sur l'équité numérique en éducation - Simon Collin https://www.simoncollin.org/ - EN COURS\n\nAuxiliaire de recherche 3eme cycle\nSous la direction de Nadia Naffi :\nhttps://pedagogienumerique.chaire.ulaval.ca/projets/transformation-ia-sante-habiliter-les-professionnels-qui-ont-des-responsabilites-de-formation-prf-a-developper-les-competences-du-futur-en-sante/? - FINI\n\nAuxiliaire de recherche au LUNEPS pour contribuer à un projet de recherche en formation initiale dans un contexte immersif en éducation physique - Chercheur : Jonathan Chevrier- https://luneps.fse.ulaval.ca/ FINI\n\n- Membre chercheur étudiant, Observatoire international sur les impacts sociétaux de l'IA et du numérique (OBVIA)\n- Membre étudiante aux centres de recherche : CRIRES - CRIEVAT - CRIFPE Laval\n- Membre étudiante au comité de rédaction INITIO journal scientifique pour étudiantes et étudiants\nhttps://www.initio.fse.ulaval.ca/",
             "current_job_title": "Assistante de recherche - 3ème cycle",
+            "email": "b.lucazeau@gmail.com",
             "current_company": "Auxiliaire de recherche à la Chaire de recherche du Canada sur l’équité numérique en éducation, UQAM",
             "experiences": [
                 {
@@ -5031,7 +5104,7 @@
                 {
                     "position_title": "Auxiliaire de recherche 3 eme cycle",
                     "institution_name": "Université Laval",
-                    "description": "https://pedagogienumerique.chaire.ulaval.ca/projets/transformation-ia-sante-habiliter-les-professionnels-qui-ont-des-responsabilites-de-formation-prf-a-developper-les-competences-du-futur-en-sante/?\nhttps://pedagogienumerique.chaire.ulaval.ca/projets/transformation-ia-sante-habiliter-les-professionnels-qui-ont-des-responsabilites-de-formation-prf-a-developper-les-competences-du-futur-en-sante/?",
+                    "description": "",
                     "duration": "4 mos",
                     "from_date": "Sep 2022",
                     "to_date": "Dec 2022",
@@ -5052,6 +5125,7 @@
             "name": "Mohamed Khelifi",
             "about": "I am a bachelor of Electrical Engineering (June 2013) with 1 year and 4 months of Co-op and Distinction. My qualifications include my ability to design, test, inspect, and troubleshoot electrical systems from multiple branches of electrical engineering: power systems, radar systems, communication systems, integrated circuitry (analog and digital), and programmable logic (e.g. FPGAs in Verilog/VHDL). \n\nAsset qualities include my work experience with the government of Canada in multiple departments for multiple positions: Public Works and Government Services Canada, Canada Border Services Agency, and Department of National Defence.\n\nI am fluent in English, can speak and read in Arabic, and have basic comprehension of French.\n…see more",
             "current_job_title": "Software Engineering Associate",
+            "email": "khelifimedb@gmail.com",
             "current_company": "Accenture",
             "experiences": [
                 {
@@ -5114,6 +5188,7 @@
             "name": "Nyanyui Komlan Siliadin\n(Il/Lui)",
             "about": "Sustainable solutions for sustainable relationships!\n\nFOCUS: Human Resources - Corporate Social Responsibility - Diversity Management - GEEIS-Diversity Audits in France and abroad - Commercial Compliance - Coaching & Training - Project Management \n\nRESOURCES: Post Graduate Degree (BAC+5) in International Human Resources Management, Specialized MBA in Diversity, Dialogue and Religions. Bilingual (English-French)",
             "current_job_title": "Conseiller en équité, diversité et inclusion (EDI)",
+            "email": "nyanyui.komlan.siliadin.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM) · Permanent Full-time",
             "experiences": [
                 {
@@ -5275,12 +5350,13 @@
             "name": "Neila Mezghani",
             "about": null,
             "current_job_title": "Professeure titulaire",
+            "email": "neila.mezghani@teluq.ca",
             "current_company": "TÉLUQ – Télé-université",
             "experiences": [
                 {
                     "position_title": "Professeure titulaire",
                     "institution_name": "TÉLUQ – Télé-université",
-                    "description": "Responsable des cours:\nINF 1421 - Apprentissage machine (http://inf1421.teluq.ca)\nINF 6409 - Forage de données (http://inf6409.teluq.ca)\nSCI 1016 - Introduction à la science des données (http://SCI1016.teluq.ca)\nINF 1425 - Algorithmique et science de données (http://inf1425.teluq.ca)\nResponsable des cours: INF 1421 - Apprentissage machine (http://inf1421.teluq.ca) INF 6409 - Forage de données (http://inf6409.teluq.ca) SCI 1016 - Introduction à la science des données (http://SCI1016.teluq.ca) INF 1425 - Algorithmique et science de données (http://inf1425.teluq.ca)\nINF6409 - Forage de données\nINF6409 - Forage de données\nLe cours INF 6409 traite du forage de données, domaine aussi désigné par le terme fouille de données ou par le terme anglo-saxon data Mining.\nLe forage de données est l’application des techniques de statistiques, d’analyse de données et d’apprentissage automatique à l’exploration d’ensembles de données, en vue d’extraire les connaissances et les informations utiles qu’elles recèlent.\nSCI1016 - Introduction à la science des données\nSCI1016 - Introduction à la science des données\nLa science des données est une vaste discipline qui comprend notamment les statistiques et l’informatique en son coeur. Elle est motivée essentiellement par des considérations pratiques. On fait parfois la distinction entre la science des données et les statistiques conventionnelles par la capacité de traitement de grands volumes de données ou des données complexes par l’usage de l’informatique.\nINF1421 - Apprentissage machine\nINF1421 - Apprentissage machine\nLe cours INF 1421 traite de l’ apprentissage machine . L’ apprentissage machine (aussi appelé apprentissage artificiel ou automatique, en anglais machine learning ) est « le processus par lequel un ordinateur acquiert de nouvelles connaissances et...",
+                    "description": "Responsable des cours:\nINF 1421 - Apprentissage machine \nINF 6409 - Forage de données \nSCI 1016 - Introduction à la science des données \nINF 1425 - Algorithmique et science de données \nResponsable des cours: INF 1421 - Apprentissage machine \nINF 6409 - Forage de données \nSCI 1016 - Introduction à la science des données \nINF 1425 - Algorithmique et science de données \nINF 6409 - Forage de données\nINF6409 - Forage de données\nLe cours INF 6409 traite du forage de données, domaine aussi désigné par le terme fouille de données ou par le terme anglo-saxon data Mining.\nLe forage de données est l’application des techniques de statistiques, d’analyse de données et d’apprentissage automatique à l’exploration d’ensembles de données, en vue d’extraire les connaissances et les informations utiles qu’elles recèlent.\nSCI1016 - Introduction à la science des données\nSCI1016 - Introduction à la science des données\nLa science des données est une vaste discipline qui comprend notamment les statistiques et l’informatique en son coeur. Elle est motivée essentiellement par des considérations pratiques. On fait parfois la distinction entre la science des données et les statistiques conventionnelles par la capacité de traitement de grands volumes de données ou des données complexes par l’usage de l’informatique.\nINF1421 - Apprentissage machine\nINF1421 - Apprentissage machine\nLe cours INF 1421 traite de l’ apprentissage machine . L’ apprentissage machine (aussi appelé apprentissage artificiel ou automatique, en anglais machine learning ) est « le processus par lequel un ordinateur acquiert de nouvelles connaissances et...",
                     "duration": "10 yrs 7 mos",
                     "from_date": "May 2013",
                     "to_date": "Present",
@@ -5319,6 +5395,7 @@
             "name": "Mikael Lemelin, M. Sc.\n(He/Him)",
             "about": "My team spirit is oriented towards the implementation of projects propelled by the creative synergy of the group. I finish what I start with my appetite for problem solving. My ability to analyze allows me to make accurate organizational diagnoses and act as a translator between different teams. I manage to bring out innovative proposals by using creative techniques that generate disruptive ideas. My behavioural skills such as empathy, communication and curiosity allow me to really put a client's needs at first.\n…see more",
             "current_job_title": "Strategy, Optimisation and Growth",
+            "email": "mikael.lemelin.brisebois.chum@ssss.gouv.qc.ca",
             "current_company": "Cambium Distribution",
             "experiences": [
                 {
@@ -5426,6 +5503,7 @@
             "name": "Kathy Malas\n(She/Her)",
             "about": "Directrice de la recherche, innovation et apprentissage et ayant créé et dirigé un Pôle d’innovation, IA et Projets en santé du CHUM, je suis une leader engagée qui a plus de 10 ans d’expérience dans l’intégration de l’innovation comme vecteur de transformation et de création de valeur pour les patients, leurs proches, les équipes, les organisations et la société.\n\nJe suis impliquée dans le développement d’une stratégie d’innovation, débutant par une mission et vision de l’innovation dans un CHU, à la culture, des structures, des processus, des méthodes et la mesure de la valeur, le tout dans avec un écosystème d’innovation ouverte et des communautés.\n\nMes intérêts de recherche portent sur la gestion de la créativité, de l’innovation et des connaissances en santé.\n\n__\n\nChief Research, Innovation and Learning Officer and created and lead the Pôle of Innovation, AI and Project in Health of CHUM, I am a committed leader with more than 10 years of experience in integrating innovation as a vector of transformation and value creation for patients, their loved ones, teams, organizations and society.\n\nI am involved in the development of an innovation strategy, starting with a mission and vision of innovation in a university hospital, a culture, structures, processes, methods and value measurement, all in an open innovation ecosystem and communities.\n\nMy research interests are in the management of creativity, innovation and knowledge in healthcare.\n…see more",
             "current_job_title": "Directrice recherche, innovation et apprentissage/ Chief Research, Innovation and Learning Officer",
+            "email": "kathy.malas.chum@ssss.gouv.qc.ca",
             "current_company": "CISSS de la Montérégie-Ouest · Permanent Full-time",
             "experiences": [
                 {
@@ -5506,6 +5584,7 @@
             "name": "Ons LOUKIL",
             "about": null,
             "current_job_title": "Data Scientist",
+            "email": "ons.loukil@enicar.ucar.tn",
             "current_company": "Consortium Applicare AI Solutions Inc. & Medical Intelligence CBRNE Inc. & CDSS Lab CHU Ste Justine · Internship",
             "experiences": [
                 {
@@ -5523,6 +5602,7 @@
             "name": "Jezahel Boivin",
             "about": null,
             "current_job_title": "CEO",
+            "email": "jezahelone@gmail.com",
             "current_company": "ufo digital media",
             "experiences": [
                 {
@@ -5558,6 +5638,7 @@
             "name": "Gabriel Altit",
             "about": "MDCM, FRCPC (certified Pediatrician, Neonatologist), FAAP (certified Pediatrician, Neonatologist)\nMDCM, FRCPC (certified Pediatrician, Neonatologist), FAAP (certified Pediatrician, Neonatologist)",
             "current_job_title": "Neonatal Hemodynamics Research Fellowship Program",
+            "email": "gabriel.altit@mcgill.ca",
             "current_company": "McGill University",
             "experiences": [
                 {
@@ -5656,6 +5737,7 @@
             "name": "Pascale Beliveau, Ph. D., Ing.",
             "about": "Digital health data science, biomedical imaging - passionate about working for advances in healthcare.\nDigital health data science, biomedical imaging - passionate about working for advances in healthcare.",
             "current_job_title": "Principal Advisor Research - Data Science",
+            "email": "pascale.beliveau@umontreal.ca",
             "current_company": "Université de Montréal",
             "experiences": [
                 {
@@ -5763,6 +5845,7 @@
             "name": "Kahina Bensaadi",
             "about": null,
             "current_job_title": "Clinical Research Coordinator",
+            "email": "Kahina.Bensaadi.chum@ssss.gouv.qc.ca",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -5843,6 +5926,7 @@
             "name": "Najia Yakob",
             "about": null,
             "current_job_title": "Agente de planification, de programmation et de recherche",
+            "email": "najia.yakob@gmail.com",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -5905,6 +5989,7 @@
             "name": "Edith Arseneault",
             "about": null,
             "current_job_title": "Adjointe virtuelle",
+            "email": "edith.arsenault.crditedme16@ssss.gouv.qc.ca",
             "current_company": "Edith Arseneault - adjointe virtuelle · Self-employed",
             "experiences": [
                 {
@@ -5985,6 +6070,7 @@
             "name": "Amy Bergeron\n(elle/she/iel/they)",
             "about": "I'm a medical librarian who likes to think outside the box! I am passionate about free access to information, supporting research, and teaching. I am a nerd for pedagogy and I love to help people!\nMy special interests include learning, artificial intelligence, simulation, cancer, nursing, lgbtq2ai+ health, methodology, health equity and ethics, and patient education.\nExpert searcher and consultant for knowledge synthesis projects.",
             "current_job_title": "Bibliothécaire",
+            "email": "amy.bergeron@umontreal.ca",
             "current_company": "Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -6029,6 +6115,7 @@
             "name": "Ouifak El Warrari",
             "about": "Medical Resident in Montreal\nMedical Resident in Montreal",
             "current_job_title": "Medical Resident",
+            "email": "ouifak.el.warrari@outlook.com",
             "current_company": "CIUSSS de l'Est-de-l'Île-de-Montréal",
             "experiences": [
                 {
@@ -6064,6 +6151,7 @@
             "name": "Nicolas Gignac",
             "about": "* Knowledge of the latest technological development in GIS, GPS, Earth observation systems, remote sensing, OGC and web applications;\n* Conceptual and strategic analytical capacity to understand GIS and Earth observation applications;\n* Ability to identify and analyze clients' needs and to function as liaison between the client, the manager and the technical staff;\n* Good experience in project management related to GIS and Earth observation at international levels in Jamaica (public safety, disaster, Open Source, International Charter, UNOOSA, UNDP) and El Salvador (risk prevention and\n* Ability to understand complex problems and communicate complex concepts, using well-developed verbal and written communication and presentation skills;\n* Accurate judgment regarding the amount of time and resources needed to accomplish a task;\n* Fluency in both English and French.\n\nSpecialties: Knowledge of GIS enterprise solutions, such as MapInfo, IDRISI, PCI Geomatics and ESRI (ArcGIS 10.x, ESRI extensions, ArcSDE, Visual Basic for Application, ArcIMS, ArcObjects, Pyhton), Web Mapping Service (e.g. Geomedia Web Map), Open Source Solutions (e.g. PostGIS, Linux, TinyOWS, OpenLayers, MapFish, MapServer, QGIS, GeoNetwork), Active Server Page, PHP, MS Project and PostgreSQL (database management, open data plateform).",
             "current_job_title": "Team Lead in Artificial intelligence (AI) and GIS",
+            "email": "nicolas.gignac@msss.gouv.qc.ca",
             "current_company": "Ministère de la Santé et des Services sociaux du Québec (MSSS) · Permanent Full-time",
             "experiences": [
                 {
@@ -6135,6 +6223,7 @@
             "name": "Gorgui Diouf",
             "about": "With widespread environmental changes and population migrations, numerous infectious diseases have emerged or re-emerged in different areas of the world. There is no surprise that infectious diseases have had profound impact on recent human evolution. Many of these diseases are transmitted to human directly from animals or via vectors, and disease distribution reflects the dynamics of human populations, host reservoirs and pathogen vectors. While medically diverse, Infectious Diseases share features that allow them to persist under conditions of poverty, resulting in clustering and overlap of different diseases. Thus, it is particularly important for the public health officers to understand the characteristics of infectious diseases that allow them to persist in humans and animals.\nI have been working on multiple aspects of vectors control and acquired immunity through intensity and duration of exposure dependents determinants. I have leading work experience with emphasize on field investigation of diseases (Malaria, HIV/AIDS, TB, Cancer Epidemiology) with potentially serious public health problems in multicultural communities.\nI understand that my mission through the field of Epidemiology is to enable research and practices to be more effective in order to improve health (for all peoples), particularly among disadvantaged populations.\n…see more",
             "current_job_title": "Epidemiologist & Biostatistics",
+            "email": "gorguidiouf@hotmail.fr",
             "current_company": "Public Health Department - Montreal Health & Social Services Agency",
             "experiences": [
                 {
@@ -6170,6 +6259,7 @@
             "name": "Sophie Lamontagne",
             "about": "Mes valeurs professionnelles: sens, agilité, rigueur. Je suis une tête chercheuse pour qui la créativité est une nécessité. Mon très sérieux sens de l'humour et ma verve font de moi une adroite communicatrice.\nMes valeurs professionnelles: sens, agilité, rigueur. Je suis une tête chercheuse pour qui la créativité est une nécessité. Mon très sérieux sens de l'humour et ma verve font de moi une adroite communicatrice.",
             "current_job_title": "Conseillère pédagogique - Projets structurants, innovation et expériences d'apprentissages (PSIEA)",
+            "email": "sophie.lamontagne.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Contract Full-time",
             "experiences": [
                 {
@@ -6223,6 +6313,7 @@
             "name": "Fanny Joussemet",
             "about": null,
             "current_job_title": "Conseillère pédagogique - Animation",
+            "email": "fjoussemet@cegepsl.qc.ca",
             "current_company": "AQPC - Association québécoise de pédagogie collégiale · Contract Part-time",
             "experiences": [
                 {
@@ -6348,6 +6439,7 @@
             "name": "Mahshid Imani",
             "about": null,
             "current_job_title": "Planning, programming and research officer",
+            "email": "mahshid.imani.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM Montreal university hospital center ",
             "experiences": [
                 {
@@ -6428,6 +6520,7 @@
             "name": "Vincent Beaulac",
             "about": null,
             "current_job_title": "Conseiller pédagogique",
+            "email": "vincent.beaulac.chum@ssss.gouv.qc.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Contract Full-time",
             "experiences": [
                 {
@@ -6499,6 +6592,7 @@
             "name": "Daniel Milad, MD",
             "about": null,
             "current_job_title": "Ophthalmology Resident Physician",
+            "email": "daniel.milad@umontreal.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal",
             "experiences": [
                 {
@@ -6534,6 +6628,7 @@
             "name": "Abbas Guennoun",
             "about": null,
             "current_job_title": "Research Assistant",
+            "email": "abbasguennoun@gmail.com",
             "current_company": "Centre de recherche du CHUM (CRCHUM)",
             "experiences": [
                 {
@@ -6587,6 +6682,7 @@
             "name": "Cyprien Cambus",
             "about": "Data scientist passionné, je suis spécialisé dans l'application de l'intelligence artificielle pour résoudre des défis complexes en entreprise. Mon expertise réside dans la création de solutions à fort ROI grâce à des méthodes d'IA innovantes.\nJe suis déterminé à aider les entreprises à exploiter pleinement le potentiel de leurs données pour prendre des décisions éclairées et stimuler leur croissance.\nData scientist passionné, je suis spécialisé dans l'application de l'intelligence artificielle pour résoudre des défis complexes en entreprise. Mon expertise réside dans la création de solutions à fort ROI grâce à des méthodes d'IA innovantes. Je suis déterminé à aider les entreprises à exploiter pleinement le potentiel de leurs données pour prendre des décisions éclairées et stimuler leur croissance.",
             "current_job_title": "AI Director",
+            "email": "cyprien.cambus@solution-bi.com",
             "current_company": "Solution BI",
             "experiences": [
                 {
@@ -6676,6 +6772,7 @@
             "name": "Dr. Adrien CASSAR, 🇫🇷 🇪🇺 Pharm.D, CSP-PO, CAL, CSM\n(www adca link)",
             "about": "1/ 🎁 : ÉVITE mes erreurs et longs détours d'entrepreneur en Santé et STEM (HCD, USP, GTM, PMF & Croissance Agile, etc.) 👇\n\n2/ 🙏: AIDE-NOUS à aider les patientes souffrant d'endométriose, de SPOK voire d'infertilité ! 👇\n----------\n\n\n1/ JE T'AIDE, COMME TOUJOURS\n--------------------\n\n🎁 TON CADEAU GRATUIT = Mes publications LinkedIn et ma newsletter gratuite 👉 WWW.ADCA.LINK/FRHCM\n\n\n2/ AIDE-NOUS EN RETOUR\n--------------------\n\n🙏 MA DEMANDE CANDIDE = Témoigne-nous de ta vie, difficultés et succès si tu es concerné(e) de près ou de loin par Endométriose, SPOK, Infertilité, etc. 👉 WWW.ADCA.LINK/PF\n\n\n3/ REJOINS-NOUS DANS L'AVENTURE?\n--------------------\n\n🚀 FOCUS ACTUEL = Création d'une MedTech autour de l'endométriose avec mon équipe surmotivée!\n\n\n----------\n# : eHealth, AI, Web3, XR, IoT | Speaker, Startup, Founder | SDG, Tech For Good, Global Citizen",
             "current_job_title": "Startup Mentor",
+            "email": "cassar.adrien@gmail.com",
             "current_company": "Techstars Sustainability Paris · Self-employed",
             "experiences": [
                 {
@@ -6780,7 +6877,7 @@
                 {
                     "position_title": "Consultant en affaires",
                     "institution_name": "Pro Bono Lab",
-                    "description": "(2021) CONSEIL PAR LES PAIRS :\n- Association ESS \"Passion Proximité Parcours\" concernant leur programme \"LIKE TON JOB\":\n---> Simplifier la gestion opérationnelle\n---> Attirer plus de bénévoles et de partenaires sur leur site Web\n---> Assurer une meilleure compréhension de leur processus \"Passeur de Passions\"\n---> Réaliser un dossier de spécification fonctionnelle pour leur site internet\n(2021) CONSEIL PAR LES PAIRS : - Association ESS \"Passion Proximité Parcours\" concernant leur programme \"LIKE TON JOB\": ---> Simplifier la gestion opérationnelle ---> Attirer plus de bénévoles et de partenaires sur leur site Web ---> Assurer une meilleure compréhension de leur processus \"Passeur de Passions\" ---> Réaliser un dossier de spécification fonctionnelle pour leur site internet\nSkills: Entrepreneuriat · Stratégie d’entreprise · Mentorat professionnel · Coaching professionnel · Génération de prospects entrants · Ventes entrantes · Gestion des ventes · Processus de vente · Mentorat · Marketing · Stratégie marketing · Stratégie Go-to-Market · Coaching\nSkills:Entrepreneuriat · Stratégie d’entreprise · Mentorat professionnel · Coaching professionnel · Génération de prospects entrants · Ventes entrantes · Gestion des ventes · Processus de vente · Mentorat · Marketing · Stratégie marketing · Stratégie Go-to-Market · Coaching",
+                    "description": "(2021) CONSEIL PAR LES PAIRS :\n- Association ESS \"Passion Proximité Parcours\" concernant leur programme \"LIKE TON JOB\":\n Simplifier la gestion opérationnelle\n Attirer plus de bénévoles et de partenaires sur leur site Web\n Assurer une meilleure compréhension de leur processus \"Passeur de Passions\"\n Réaliser un dossier de spécification fonctionnelle pour leur site internet\n(2021) CONSEIL PAR LES PAIRS : - Association ESS \"Passion Proximité Parcours\" concernant leur programme \"LIKE TON JOB\":  Simplifier la gestion opérationnelle  Attirer plus de bénévoles et de partenaires sur leur site Web  Assurer une meilleure compréhension de leur processus \"Passeur de Passions\"  Réaliser un dossier de spécification fonctionnelle pour leur site internet\nSkills: Entrepreneuriat · Stratégie d’entreprise · Mentorat professionnel · Coaching professionnel · Génération de prospects entrants · Ventes entrantes · Gestion des ventes · Processus de vente · Mentorat · Marketing · Stratégie marketing · Stratégie Go-to-Market · Coaching\nSkills:Entrepreneuriat · Stratégie d’entreprise · Mentorat professionnel · Coaching professionnel · Génération de prospects entrants · Ventes entrantes · Gestion des ventes · Processus de vente · Mentorat · Marketing · Stratégie marketing · Stratégie Go-to-Market · Coaching",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6807,7 +6904,7 @@
                 {
                     "position_title": "Mentor d’entreprise",
                     "institution_name": "h'up entrepreneurs · Self-employed",
-                    "description": ">>>>> 2021->2022 <<<<<\n\nMENTORAT :\n- Entreprise ESS \"Cosmétange\"\n---> Personas et proposition de valeur\n---> Positionnement\n---> Collecte de fonds\n---> Modèle d'affaires\n---> Marketing & Ventes\n>>>>> 2021->2022 <<<<< MENTORAT : - Entreprise ESS \"Cosmétange\" ---> Personas et proposition de valeur ---> Positionnement ---> Collecte de fonds ---> Modèle d'affaires ---> Marketing & Ventes\nSkills: Entrepreneuriat · Stratégie d’entreprise · Vente · Gestion des ventes · Stratégie · Stratégie marketing · Planification stratégique\nSkills:Entrepreneuriat · Stratégie d’entreprise · Vente · Gestion des ventes · Stratégie · Stratégie marketing · Planification stratégique",
+                    "description": "MENTORAT :\n- Entreprise ESS \"Cosmétange\"\n Personas et proposition de valeur\n Positionnement\n Collecte de fonds\n Modèle d'affaires\n Marketing & Ventes\n>>>>> 2021->2022 <<<<< MENTORAT : - Entreprise ESS \"Cosmétange\"  Personas et proposition de valeur  Positionnement Collecte de fonds  Modèle d'affaires  Marketing & Ventes\nSkills: Entrepreneuriat · Stratégie d’entreprise · Vente · Gestion des ventes · Stratégie · Stratégie marketing · Planification stratégique\nSkills:Entrepreneuriat · Stratégie d’entreprise · Vente · Gestion des ventes · Stratégie · Stratégie marketing · Planification stratégique",
                     "duration": "2 yrs 3 mos",
                     "from_date": "Sep 2021",
                     "to_date": "Present",
@@ -6945,6 +7042,7 @@
             "name": "Artour Benevolenski\n(He/Him)",
             "about": "Étudiant en Génie Informatique avec plusieurs années d'expérience en programmation. Joueur d'équipe qui met les intérêts de l'équipe en première place. Soft skills développés et habiletés de communication orale et écrite en trois langues (Russe, Français et Anglais). Membre de Polyfinances, participation active dans un stage Lab-to-Market (commercialisation d'une Fonction physique non clonable pour fibre optique, un outil de chiffrement matériel), Développeur Web pour une Start-up et programmeur. J'ai un intérêt accru pour le domaine des TICs et de la Finance, en passant par les Fintech et les startups technologique. Je suis un élève de la vie et j'aime apprendre.\n\nComputer engineering student with several years of coding experience. Team player with an acute interest in prioritizing the team's interests. Trilingual written and oral communication possibility. Developed soft skills for optimal work environment productivity and atmosphere. Member of Polyfinances, active participation in a Lab-to-Market Internship (commercialization of a cybersecurity invention for optical fiber, the Physical Unclonable Function, which is a material encryption device), Web Developer for a Start-up, and Coder. I have a passion for CITs and the financial sector. As well, I am invested in learning/talking about Fintech and technological startups. I am a lifelong learner who likes to learn.\n…see more",
             "current_job_title": "Social Media Manager",
+            "email": "benevolenskiartour@gmail.com",
             "current_company": "PolyAI · On-Call",
             "experiences": [
                 {
@@ -7052,6 +7150,7 @@
             "name": "abdou khadir dia\n(il)",
             "about": "Je suis un data scientist passionné par l'analyse de données et la résolution de problèmes complexes en utilisant des techniques avancées de Machine Learning. Fort de 3 ans d'expérience dans l'analyse de données et la création de modèles prédictifs.\nJe suis capable de gérer efficacement des projets de bout en bout, depuis l'analyse des données et la modélisation jusqu'à la présentation des résultats à des publics non techniques. Je suis également expérimenté dans l'utilisation d'outils de visualisation de données pour communiquer efficacement des insights.\nCompétences clés : Analyse de données, Modélisation prédictive, Machine Learning, Deep Learning, Statistiques, Python, R, SQL, Tableau, Power BI, Visualisation de données.\n…see more",
             "current_job_title": "Data-analyst en électrification des transports",
+            "email": "abdou.kh.dia@gmail.com",
             "current_company": "Bornes Quebec · Permanent Full-time",
             "experiences": [
                 {
@@ -7105,6 +7204,7 @@
             "name": "Jeremy Qin",
             "about": "Enthusiast learner on machine learning topics especially deep learning. Recent field that really attracts me is Causal ML in Healthcare with an interest in decision making for precision medicine. I am also really interested in RL and NLP especially in how we can leverage them in healthcare. Also really interested in topics like machine unlearning and federated learning.\nEnthusiast learner on machine learning topics especially deep learning. Recent field that really attracts me is Causal ML in Healthcare with an interest in decision making for precision medicine. I am also really interested in RL and NLP especially in how we can leverage them in healthcare. Also really interested in topics like machine unlearning and federated learning.",
             "current_job_title": "Datalab Actuarial Analyst",
+            "email": "jeremyqin1@gmail.com",
             "current_company": "Intact",
             "experiences": [
                 {
@@ -7167,6 +7267,7 @@
             "name": "Étienne Boucher",
             "about": "Quebec's public healtcare system provides great cares. It is however a challenge to have access to care for non-lifethreatening health issues. I'm trying to help the situation the best I can.\nQuebec's public healtcare system provides great cares. It is however a challenge to have access to care for non-lifethreatening health issues. I'm trying to help the situation the best I can.",
             "current_job_title": "Architect of Information System Integration",
+            "email": "etienneboucher@hotmail.ca",
             "current_company": "CHUM - Centre hospitalier de l'Université de Montréal · Permanent Full-time",
             "experiences": [
                 {
@@ -7247,6 +7348,7 @@
             "name": "Martine Brouillette",
             "about": null,
             "current_job_title": "Chef de service | GMF-U de Shawinigan ",
+            "email": "martine.brouillette@ssss.gouv.qc.ca",
             "current_company": "CIUSSS de la Mauricie et du Centre-du-Québec · Permanent Full-time",
             "experiences": [
                 {
@@ -7288,7 +7390,7 @@
                 {
                     "position_title": "Répartiteur médical d'urgence (RMU)",
                     "institution_name": "Urgences-santé · Permanent Full-time",
-                    "description": "Skills: Communication · Gestion de plusieurs priorités · Service client",
+                    "description": "Skills: Communication · Gestion de plusieurs priorités · Service client\nSkills:Communication · Gestion de plusieurs priorités · Service client",
                     "duration": "2 yrs",
                     "from_date": "2015 -",
                     "to_date": "",
@@ -7297,7 +7399,7 @@
                 {
                     "position_title": "Conseillère services transactionnels/ Petites entreprises",
                     "institution_name": "Banque Nationale · Permanent Full-time",
-                    "description": "Skills: Service client",
+                    "description": "Skills: Service client\nSkills:Service client",
                     "duration": "6 yrs",
                     "from_date": "2009 -",
                     "to_date": "",
